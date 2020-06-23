@@ -1,0 +1,29 @@
+- name: Voorbeeld Pagina's
+  link: /#
+  dropdown:
+    - name: Pagina met Sidebar
+      link: /example-pages/page-1/
+    - name: Pagina zonder Sidebar
+      link: /example-pages/page-2/
+    - name: Pagina met Menubar
+      link: /example-pages/page-3/
+    - name: Pagina met Tabs
+      link: /example-pages/page-4/
+    - name: Pagina zonder Footer
+      link: /example-pages/page-5/
+    - name: Pagina zonder Hero
+      link: /example-pages/page-without-hero/
+    - name: Pagina met Contents
+      link: /example-pages/page-with-contents/
+    - name: Pagina met Callouts
+      link: /example-pages/landing/
+    - name: Showcase Voorbeeld Pagina
+      link: /example-pages/showcase/
+    - name: Sponsors Voorbeeld Page
+      link: /example-pages/sponsors/
+- name: Gebruikers
+  link: /community/
+- name: Ondersteuning
+  link: /support/
+- name: Blog
+  link: /blog/

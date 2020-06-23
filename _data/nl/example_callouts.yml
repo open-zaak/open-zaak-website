@@ -1,0 +1,30 @@
+style: is-light
+height: is-medium
+items:
+  - title: Voorbeeld callout 1
+    subtitle: Voorbeeld subtitle 1
+    icon: fa-space-shuttle
+    description: >
+      De voorbeeldbeschrijvingstekst komt hier en kan uit meerdere regels bestaan.
+
+      Bijvoorbeeld, zoiets als dit.
+    call_to_action_name: Call to action 1
+    call_to_action_link: /page-1/
+  - title: Voorbeeld callout 2
+    subtitle: Voorbeeld subtitle 2
+    icon: fa-wrench
+    description: >
+      De voorbeeldbeschrijvingstekst komt hier en kan uit meerdere regels bestaan.
+
+      Bijvoorbeeld, zoiets als dit.
+    call_to_action_name: Call to action 2
+    call_to_action_link: /page-2/
+  - title: Voorbeeld callout 3
+    subtitle: Voorbeeld subtitle 3
+    icon: fab fa-github
+    description: >
+      De voorbeeldbeschrijvingstekst komt hier en kan uit meerdere regels bestaan.
+
+      Bijvoorbeeld, zoiets als dit.
+    call_to_action_name: Call to action 3
+    call_to_action_link: /page-3/
