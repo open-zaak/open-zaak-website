@@ -9,26 +9,26 @@ show_sidebar: false
     {{ page.content }}
   </div>
 
-  {% assign sorted_communities = site.community | sort:page.sort %}
+  {% assign sorted_municipalities = site.municipalities | sort:page.sort %}
 
-  {% for community in sorted_communities %}
+  {% for municipality in sorted_municipalities %}
   <div class="column is-4-desktop is-6-tablet">
 
-    <a href="{{ community.url | prepend: site.baseurl }}">
+    <a href="{{ municipality.url | prepend: site.baseurl }}">
 
       <div class="card">
 
-        {% if community.image %}
+        {% if municipality.image %}
         <div class="card-image">
           <figure class="image is-4by3">
-            <img src="{{ community.image }}" alt="{{ community.title }}" />
+            <img src="{{ municipality.image }}" alt="{{ municipality.title }}" />
           </figure>
         </div>
         {% endif %}
         <div class="card-content">
 
-          <p class="title is-4">{{ community.title }}</h2>
-          <p class="subtitle is-4">{{ community.subtitle }}</p>
+          <p class="title is-4">{{ municipality.title }}</h2>
+          <p class="subtitle is-4">{{ municipality.subtitle }}</p>
 
         </div>
       </div>
