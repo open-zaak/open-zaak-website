@@ -1,7 +1,7 @@
-- name: Citizens
-  link: /citizens
 - name: Municipalities
   link: /municipalities
+- name: Vendors
+  link: /vendors
 - name: Developers
   link: /developers
 - name: Support

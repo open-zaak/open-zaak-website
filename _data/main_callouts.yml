@@ -1,28 +1,31 @@
 style: is-light
 height: is-medium
 items:
-  - title: Citizens
-    subtitle: Easy to use online services
-    icon: fa-users
-    description: >
-      @todo value statement OpenZaak for citizens
-
-    call_to_action_name: Learn more
-    call_to_action_link: /page-1/
   - title: Municipalities
     subtitle: Start using OpenZaak
     icon: fa-university
     description: >
-      @todo value statement OpenZaak for municipalities
+      Learn more about what OpenZaak is and how to get started improving your services while lowering your operational costs.
 
     call_to_action_name: Learn More
     call_to_action_link: /municipalities/
+
+  - title: Vendors
+    subtitle: Provide your OpenZaak services
+    icon: fab fa-github
+    icon_brand: true
+    description: >
+        Are you a software vendor, consultancy company or hosting provider interested in developing or offering OpenZaak services?
+
+    call_to_action_name: Learn more
+    call_to_action_link: /vendors/
+
   - title: Developers
     subtitle: Develop and host OpenZaak
     icon: fab fa-github
     icon_brand: true
     description: >
-      Wether you are a community freelance developer or a software vendor interested in
-      offering OpenZaak as a service here you can learn how to get started and be part of the OpenZaak development community.
+      Want to start download and test OpenZaak or contribute code?
+
     call_to_action_name: Learn more
-    call_to_action_link: /page-3/
+    call_to_action_link: /developers/

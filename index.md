@@ -13,7 +13,3 @@ permalink: /
 language : en
 
 ---
-
-## General page content
-
-This is the rest of the page content. You can add what you like here.
