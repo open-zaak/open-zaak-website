@@ -1,8 +1,8 @@
 ---
 title: Vendors
-subtitle: Start offering services with OpenZaak
+subtitle: Start offering services for OpenZaak
 layout: page
-hero_image: /img/origamivillage.jpg
+hero_image: /img/vendor.jpg
 hero_darken: true
 #layout: municipality-category
 show_sidebar: false
@@ -45,9 +45,7 @@ After reading the use cases start experimenting with the codebase by installing 
 
 ## How can I sell my product or services? @TODO
 
-This is of course up to you. You could develop a service with a subscription model or sell a service contract. Public organisations need to follow strict rules when procuring products and services. Procurement rules differ between municipalities. Small and mid-sized municipalities typically procure together through
+This is of course up to you. You could develop a service with a subscription model or sell a service contract. Public organisations need to follow strict rules when procuring products and services. Procurement rules differ between municipalities. Small and mid-sized municipalities typically procure together through associations such as [Dimpact](https://www.dimpact.nl/).
 
-## How can I get listed on the vendor pages?
 
-This website is also open source and everyone can contribute. Head over to the website repository. Clone the project. Create a new branch, add your vendor page and create a pull request for your branch to merge into 'develop'. The last step allows the community to review your contribution before merging it into the website. Make sure to read the contribution guidelines for the website.
 (*)= Header photo created by [Simona](https://www.flickr.com/photos/mammaoca2008/7242218154) used with permission.

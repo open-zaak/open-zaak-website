@@ -1,6 +1,6 @@
 ---
 title: Developers
-subtitle: Get starting with developing OpenZaak
+subtitle: Get started with developing OpenZaak
 layout: page
 hero_image: /img/code-944499_1280.jpg
 hero_darken: true
@@ -28,6 +28,6 @@ If you are developer and are ready to take OpenZaak for a spin and try out it be
 * [OpenZaak Documentation](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
 * [How to Contribute](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md)
 
-If you are interested in offering your services towards towards municipalities or other vendors offering OpenZaak services please take a look at the [support pages](https://). It includes a [list of vendors](https://#) delivering OpenZaak services and you can also read more information on how to offer your professional services towards municipalities or other vendors.
+If you are interested in offering your services towards towards municipalities or other vendors offering OpenZaak services please take a look at the [support pages](/support). It includes a [list of vendors](/support) delivering OpenZaak services and you can also read more information on how to offer your professional services towards municipalities or other vendors.
 
 We invite you to sign up to the [OpenZaak mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/) to participate in community discussions and decision making process. Furthermore you can join the [OpenZaak community calls](#) to learn more and meet the OpenZaak community.

@@ -13,3 +13,5 @@ permalink: /
 language : en
 
 ---
+
+OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online.

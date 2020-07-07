@@ -12,7 +12,7 @@ items:
 
   - title: Vendors
     subtitle: Provide your OpenZaak services
-    icon: fab fa-github
+    icon: fa-building
     icon_brand: true
     description: >
         Are you a software vendor, consultancy company or hosting provider interested in developing or offering OpenZaak services?
@@ -25,7 +25,8 @@ items:
     icon: fab fa-github
     icon_brand: true
     description: >
-      Want to start download and test OpenZaak or contribute code?
+      Are you a software developer? Download OpenZaak and try it yourself. Learn how to develop OpenZaak and contribute code.
+
 
     call_to_action_name: Learn more
     call_to_action_link: /developers/
