@@ -1,8 +1,8 @@
 ---
-title: This is community 2 using codebase
-subtitle: community 2 tagline here
+title: This is community 1 using codebase
+subtitle: community 1 tagline here
 description: This is a community description
-layout: community
+layout: municipality
 image: https://via.placeholder.com/640x480
 highlights:
     - label: Great addition to any home

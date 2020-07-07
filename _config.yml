@@ -1,7 +1,7 @@
 # Site Settings
-title: Codebase
+title: OpenZaak
 tagline: We enable public-purpose software and policy that is open and collaborative.
-email: your-email@domain.com
+email: community@openzaak.org
 description: >
   A demo site for supporting Foundation for Public Code Codebases , made for Jekyll and GitHub pages websites
 baseurl: ""
@@ -76,9 +76,9 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  community:
+  municipalities:
     output: true
-    layout: communities
+    layout: municipality
     image: https://via.placeholder.com/800x600
     show_sidebar: false
   support:
@@ -87,7 +87,7 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-repository_url: https://github.com/publiccodenet/jekyll-theme-codebase-starter-kit
+repository_url: https://github.com/open-zaak/open-zaak/
 
 #localization settings here
 

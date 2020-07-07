@@ -1,9 +1,9 @@
-{% if page.menubar and page.show_sidebar %} 
-    {% assign content_width = 'is-4' %} 
-{% elsif page.menubar or page.show_sidebar %} 
-    {% assign content_width = 'is-8' %} 
-{% else %} 
-    {% assign content_width = 'is-12' %} 
+{% if page.menubar and page.show_sidebar %}
+    {% assign content_width = 'is-4' %}
+{% elsif page.menubar or page.show_sidebar %}
+    {% assign content_width = 'is-8' %}
+{% else %}
+    {% assign content_width = 'is-12' %}
 {% endif %}
 <!DOCTYPE html>
 <html>
@@ -13,6 +13,12 @@
     {% unless page.hide_hero %}
         {% include hero.html %}
     {% endunless %}
+
+    <section class="section">
+        <div class="container">
+          {{ content }}
+</div>
+</section>
     {% include callouts.html %}
     <section class="section">
         <div class="container">
@@ -26,7 +32,7 @@
                     {% include tabs.html %}
                     {% include showcase.html %}
                     {% include sponsors.html %}
-                    {{ content }}
+
                 </div>
                 {% if site.posts and page.show_sidebar %}
                 <div class="column is-4-desktop is-12-tablet">
@@ -43,4 +49,3 @@
     {%- include footer-scripts.html -%}
   </body>
 </html>
-

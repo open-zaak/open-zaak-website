@@ -3,7 +3,7 @@ title: This is community 3 using codebase
 subtitle: community 3 tagline here
 description: This is a community description
 
-layout: community
+layout: municipality
 image: https://via.placeholder.com/640x480
 highlights:
     - label: Great addition to any home

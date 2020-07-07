@@ -10,7 +10,10 @@ http://versions.bulma.io/0.7.0/documentation/overview/variables/
 $family-primary: 'Muli', sans-serif;
 
 /* primary color used within site*/
-$primary: white;
+//$primary: white;
+
+// OpenZaak Blue
+$primary: #3e9ce9;
 
 /* Remove border from text input */
 input, select, textarea {
