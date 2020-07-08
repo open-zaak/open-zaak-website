@@ -4,10 +4,10 @@
   link: /vendors
 - name: Developers
   link: /developers
-- name: Support
-  link: /support
-- name: Blog
-  link: /blog
+- name: Join Us!
+  link: /community
+#- name: Blog
+#  link: /blog
 #- name: dropdown example
 #  link: /#
 #  dropdown:
