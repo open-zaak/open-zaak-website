@@ -30,6 +30,9 @@ plugins:
   - rouge
   - jekyll-polyglot
 
+include:
+  - assets
+  
 exclude:
   - Gemfile
   - clean-theme.gemspec
