@@ -8,7 +8,7 @@ items:
       Learn more about what OpenZaak is and how to get started improving your services while lowering your operational costs.
 
     call_to_action_name: Learn More
-    call_to_action_link: /municipalities/
+    call_to_action_link: /municipalities
 
   - title: Vendors
     subtitle: Provide your OpenZaak services
@@ -18,7 +18,7 @@ items:
         Are you a software vendor, consultancy company or hosting provider interested in developing or offering OpenZaak services?
 
     call_to_action_name: Learn more
-    call_to_action_link: /vendors/
+    call_to_action_link: /vendors
 
   - title: Developers
     subtitle: Develop and host OpenZaak
@@ -29,4 +29,4 @@ items:
 
 
     call_to_action_name: Learn more
-    call_to_action_link: /developers/
+    call_to_action_link: /developers

@@ -1,11 +1,12 @@
 # Site Settings
 title: OpenZaak
-tagline: We enable public-purpose software and policy that is open and collaborative.
+tagline: Online Services for Citizens
 email: community@openzaak.org
-description: >
-  A demo site for supporting Foundation for Public Code Codebases , made for Jekyll and GitHub pages websites
+description: OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online
+
 baseurl: "/open-zaak-website"
 #url: "https://open-zaak.github.io/open-zaak-website"
+
 permalink: pretty
 favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
@@ -64,7 +65,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "OpenZaak"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
