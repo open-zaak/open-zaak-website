@@ -4,11 +4,11 @@ tagline: Online Services for Citizens
 email: community@openzaak.org
 description: OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online
 
-baseurl: "/open-zaak-website"
+#baseurl: "/open-zaak-website"
 #url: "https://open-zaak.github.io/open-zaak-website"
 
 permalink: pretty
-favicon: /path/to/favicon.png
+favicon: /favicon.png
 #gh_sponsor: chrisrhymes
 
 paginate: 5
