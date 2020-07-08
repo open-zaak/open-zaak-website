@@ -2,7 +2,7 @@
 title: Municipalities
 subtitle: Check out the municipalities using OpenZaak
 layout: page
-hero_image: img/origamivillage.jpg
+hero_image: /img/origamivillage.jpg
 hero_darken: true
 #layout: municipality-category
 show_sidebar: false

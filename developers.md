@@ -2,7 +2,7 @@
 title: Developers
 subtitle: Get started with developing OpenZaak
 layout: page
-hero_image: img/code-944499_1280.jpg
+hero_image: /img/code-944499_1280.jpg
 hero_darken: true
 show_sidebar: false
 sort: title
