@@ -2,7 +2,7 @@
 title: Vendors
 subtitle: Start offering services for OpenZaak
 layout: page
-hero_image: /img/vendor.jpg
+hero_image: img/vendor.jpg
 hero_darken: true
 #layout: municipality-category
 show_sidebar: false
