@@ -4,8 +4,8 @@ tagline: We enable public-purpose software and policy that is open and collabora
 email: community@openzaak.org
 description: >
   A demo site for supporting Foundation for Public Code Codebases , made for Jekyll and GitHub pages websites
-baseurl: ""
-url: "https://open-zaak.github.io/open-zaak-website"
+baseurl: "/open-zaak-website"
+#url: "https://open-zaak.github.io/open-zaak-website"
 permalink: pretty
 favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
