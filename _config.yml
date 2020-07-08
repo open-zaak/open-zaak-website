@@ -5,7 +5,7 @@ email: community@openzaak.org
 description: >
   A demo site for supporting Foundation for Public Code Codebases , made for Jekyll and GitHub pages websites
 baseurl: ""
-url: ""
+url: "https://open-zaak.github.io/open-zaak-website"
 permalink: pretty
 favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
@@ -29,10 +29,11 @@ plugins:
   - kramdown
   - rouge
   - jekyll-polyglot
+  - github-pages
 
 include:
   - assets
-  
+
 exclude:
   - Gemfile
   - clean-theme.gemspec
