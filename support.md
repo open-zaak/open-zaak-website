@@ -8,7 +8,7 @@ language: en
 permalink: /support
 ---
 
-Below is a list of vendors who have proofen experience with providing services based on OpenZaak.<br><br>
+Below is a list of vendors who have proven experience with providing services based on OpenZaak.<br><br>
 
 If your company has performed installations and / or developed OpenZaak services and you want to be listed on this page you can write an e-mail to vendor@openzaak.org. Make sure your request includes:<br><br>
 
