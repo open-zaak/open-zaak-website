@@ -21,7 +21,7 @@ bundle exec jekyll build
 bundle exec htmlproofer \
     --assume-extension \
     --external-only \
-    --alt-ignore
+    --alt-ignore \
     --empty-alt-ignore \
     --url-ignore "/github.com/(.*)/edit/" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
