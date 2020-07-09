@@ -2,11 +2,12 @@
 set -e # halt script on error
 
 # Lint markdown using the Markdownlint gem with the default ruleset except for:
+# MD002 First header should be a top level header : we allow different header hierachy for styling purposes
 # MD013 Line length: we allow long lines
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 # MD033 Inline HTML: we allow inline HTML as needed for community pages layout and templating
 
-bundle exec mdl -r ~MD013,~MD029,~MD033 -i '{**/node_modules/**}' -g '.'
+bundle exec mdl -r ~MD002,-~MD013,~MD029,~MD033 -i '{**/node_modules/**}' -g '.'
 
 # Build the site
 bundle exec jekyll build

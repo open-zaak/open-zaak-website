@@ -9,16 +9,16 @@ hero_image: /img/codebasesteward.svg
 show_sidebar: false
 callouts: example_callouts
 permalink: /
-language : nl
+language: nl
 ---
 
-## Algemene pagina content
+# Algemene pagina content
 
 Dit is de rest van de pagina-inhoud. Je kunt hier toevoegen wat je leuk vindt.
 
-## Hero Link
+# Hero Link
 
-Als je een call-to-action-knop in de held wilt toevoegen, voeg dan `hero_link` en` hero_link_text` toe aan de frontmatter van de pagina
+Als je een call-to-action-knop in de held wilt toevoegen, voeg dan `hero_link` en`hero_link_text` toe aan de frontmatter van de pagina
 
 ```yaml
 layout: page
@@ -29,12 +29,11 @@ hero_link: /page-1/
 hero_link_text: Voorbeeld Call To Action
 ```
 
-
-## Maak een bijschriftgegevensbestand
+# Maak een bijschriftgegevensbestand
 
 Maak een gegevensbestand volgens het onderstaande formaat. De stijl is voor klassen om de achtergrondkleur en -groottes in te stellen die u wilt gebruiken van de Bulma-heldencontainer voor de toelichtingen.
 
-** Nieuw in 0.5.7 ** U kunt de hoogte van de toelichtingen in het gegevensbestand instellen, zoals is-klein, is-medium of is-groot. Indien uitgeschakeld, is het standaard medium.
+**Nieuw in 0.5.7** U kunt de hoogte van de toelichtingen in het gegevensbestand instellen, zoals is-klein, is-medium of is-groot. Indien uitgeschakeld, is het standaard medium.
 
 De items hebben 5 velden, maar alleen de titel en ondertitel zijn verplicht.
 
@@ -71,7 +70,7 @@ items:
     call_to_action_link: /page-3/
 ```
 
-## Stel de highlights in de frontmatter in
+# Stel de highlights in de frontmatter in
 
 Om de highlights op uw pagina weer te geven, voegt u een highlight-eigenschap in de frontmatter toe en stelt u deze in op de naam van uw gegevensbestand zonder de extensie.
 

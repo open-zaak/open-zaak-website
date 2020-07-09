@@ -53,7 +53,9 @@ Below is a copy of the manual based on the version this theme is orginally based
   - [Posts](#posts)
 
   - [Navigation](#navigation)
+
   - [Colours and Styles](#colours-and-styles)
+
   - [Sidebar Visibility](#sidebar-visibility)
   - [Menubar](#menubar)
   - [Tabs](#tabs)
@@ -70,6 +72,7 @@ Below is a copy of the manual based on the version this theme is orginally based
 - [Contributing](#contributing)
 
 - [Development](#development)
+
 - [Licence](#licence)
 
 ## Installation

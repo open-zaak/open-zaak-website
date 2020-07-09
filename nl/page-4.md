@@ -7,9 +7,9 @@ tabs: example_tabs
 menubar: example_menu
 ---
 
-## Displaying tabs
+# Displaying tabs
 
-The tabs gets its content from a data file in your site's `_data` directory. Simply set the name of your data file in the page's menubar setting in the frontmatter. 
+The tabs gets its content from a data file in your site's `_data` directory. Simply set the name of your data file in the page's menubar setting in the frontmatter.
 
 ```yml
 title: Page with tabs
@@ -20,9 +20,9 @@ menubar: example_menu
 tabs: example_tabs
 ```
 
-Tabs can be used in conjunction with menubar and/or sidebar if you wish. 
+Tabs can be used in conjunction with menubar and/or sidebar if you wish.
 
-## Creating a tabs data file
+# Creating a tabs data file
 
 Create a data file in the _data directory and use the following format (if using yml)
 
@@ -45,15 +45,15 @@ items:
     icon: fa-bars
 ```
 
-## Settings
+# Settings
 
-You can control the alignment, style and size of the tabs by using the relevant [Bulma tabs classes](https://bulma.io/documentation/components/tabs/). 
+You can control the alignment, style and size of the tabs by using the relevant [Bulma tabs classes](https://bulma.io/documentation/components/tabs/).
 
-## Active Tab Highlighting
+# Active Tab Highlighting
 
 It will automatically mark the active tab based on the current page.
 
-## Icons
+# Icons
 
 You can add icons to your tab by passing in the [Font Awesome icon class](https://fontawesome.com/icons?d=gallery).
 
