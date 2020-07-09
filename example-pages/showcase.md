@@ -40,7 +40,7 @@ items:
     link: http://www.example.com
     link_text: View example
     tags: PHP,CSS,JavaScript
-    github: user/repo-name
+    github: open-zaak/open-zaak-website
 ```
 
 # Displaying the Showcase
