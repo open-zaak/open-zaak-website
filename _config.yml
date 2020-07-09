@@ -36,9 +36,16 @@ include:
 
 exclude:
   - Gemfile
-  - clean-theme.gemspec
+  - bulma-clean-theme.gemspec
   - Gemfile.lock
-  - node_modules
+  - yarn.lock
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - package-lock.json
+  - package.json
+  - screenshot.png
+  - node_modules/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
