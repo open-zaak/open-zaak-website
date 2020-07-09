@@ -7,7 +7,7 @@ showcase: showcase_example
 show_sidebar: false
 ---
 
-## Creating A Showcase Datafile
+# Creating A Showcase Datafile
 
 Create a datafile in your sites `_data` directory in the following format. Subtitle, features and tags are not required.
 
@@ -40,10 +40,10 @@ items:
     link: http://www.example.com
     link_text: View example
     tags: PHP,CSS,JavaScript
-    github: user/repo-name
+    github: open-zaak/open-zaak-website
 ```
 
-## Displaying the Showcase
+# Displaying the Showcase
 
 Set the showcase in the page's front matter to be the name of the showcase data file without the extension. This gives you the ability to create multiple showcases to be used on different pages.
 
