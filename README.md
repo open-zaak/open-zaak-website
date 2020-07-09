@@ -1,28 +1,27 @@
 # jekyll-theme-codebase-starter-kit
 
-This is a theme which can be used a starting point to created a product website supporting a codebase.
-This theme requires Jekyll 3.8 so it is compatible with GitHub Pages.
+This is a theme which can be used a starting point to created a product website supporting a codebase. This theme requires Jekyll 3.8 so it is compatible with GitHub Pages.
 
-It is a modified version of the Bulma Clean Theme. The original theme can be found here:  https://github.com/chrisrhymes/bulma-clean-theme. The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+It is a modified version of the Bulma Clean Theme. The original theme can be found here: <https://github.com/chrisrhymes/bulma-clean-theme>. The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-Official manual of this theme can be found at:
-https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md
+Official manual of this theme can be found at: <https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md>
 
 Following features where added:
 
-* Multi language support using Polyglot plugin including multi lingual switcher (https://github.com/mrzool/polyglot-jekyll)
-* Simple-Jekyll-Search based on https://github.com/christian-fei/Simple-Jekyll-Search
-* Collection of communities to present organizations using the Codebase
-* Collection of vendors who can support organization with implementing a codebase into a organization
+- Multi language support using Polyglot plugin including multi lingual switcher (<https://github.com/mrzool/polyglot-jekyll>)
+- Simple-Jekyll-Search based on <https://github.com/christian-fei/Simple-Jekyll-Search>
+- Collection of communities to present organizations using the Codebase
+- Collection of vendors who can support organization with implementing a codebase into a organization
 
 # Short Manual
+
 Below is a short manual explaining the specific structure and configurations made for using this theme to create a website to support a codebase.
 
 ## Installation
+
 To set up your environment to develop this theme, run `bundle install`.
 
 Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
 
 ## Site structure
 
@@ -33,39 +32,45 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 ## Overriding theme CSS styles
 
 ## Notes
+
 @TODO: create more complete documentation
 
-This theme is capable of supporting multiple languages. describe config
-Default language is EN and can be set in ``
+This theme is capable of supporting multiple languages. describe config Default language is EN and can be set in ``
 
 # Original Manual
-For the most up-to-date version please refer to: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md.  
+
+For the most up-to-date version please refer to: <https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md>.<br>
 Below is a copy of the manual based on the version this theme is orginally based on.
 
-* [Installation](#installation)
-* [Usage](#usage)
-    * [Pages](#pages)
-        * [Page Hero](#page-hero)
-        * [Table Of Contents](#table-of-contents)
-    * [Posts](#posts)
-    * [Navigation](#navigation)
-    * [Colours and Styles](#colours-and-styles)
-    * [Sidebar Visibility](#sidebar-visibility)
-    * [Menubar](#menubar)
-    * [Tabs](#tabs)
-    * [Google Analytics](#google-analytics)
-    * [Footer](#footer)
-    * [Products](#products)
-    * [Scripts](#scripts)
-    * [Callouts](#callouts)
-    * [Favicon](#favicon)
-    * [Showcases](#showcases)
-    * [Sponsors](#sponsors)
-    * [Disqus](#disqus)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+- [Installation](#installation)
+- [Usage](#usage)
 
+  - [Pages](#pages)
+
+    - [Page Hero](#page-hero)
+    - [Table Of Contents](#table-of-contents)
+
+  - [Posts](#posts)
+
+  - [Navigation](#navigation)
+  - [Colours and Styles](#colours-and-styles)
+  - [Sidebar Visibility](#sidebar-visibility)
+  - [Menubar](#menubar)
+  - [Tabs](#tabs)
+  - [Google Analytics](#google-analytics)
+  - [Footer](#footer)
+  - [Products](#products)
+  - [Scripts](#scripts)
+  - [Callouts](#callouts)
+  - [Favicon](#favicon)
+  - [Showcases](#showcases)
+  - [Sponsors](#sponsors)
+  - [Disqus](#disqus)
+
+- [Contributing](#contributing)
+
+- [Development](#development)
+- [Licence](#licence)
 
 ## Installation
 
@@ -85,11 +90,15 @@ theme: bulma-clean-theme
 
 And then execute:
 
-    $ bundle
+```
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install bulma-clean-theme
+```
+$ gem install bulma-clean-theme
+```
 
 ## Usage
 
@@ -99,24 +108,19 @@ Create your pages as individual markdown files and use the `layout: page` for no
 
 #### Page Hero
 
-**New in 0.2**
-Heros can now display a background image if you provide a `hero_image: /path/to/image.jpg` setting in your page front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
+**New in 0.2** Heros can now display a background image if you provide a `hero_image: /path/to/image.jpg` setting in your page front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
 
 You can also set the height of the hero by providing a bulma hero height class in your front matter, such as `hero_height: is-fullwidth`. If you do not provide this, it will revert to is-medium
 
-**New in 0.5.4**
-If you would like to add a call to action button in the hero then add `hero_link` and `hero_link_text` to the page's front matter.
+**New in 0.5.4** If you would like to add a call to action button in the hero then add `hero_link` and `hero_link_text` to the page's front matter.
 
-**New in 0.5.7**
-If you would like to hide the hero, you can set `hide_hero: true` in the page's front matter.
+**New in 0.5.7** If you would like to hide the hero, you can set `hide_hero: true` in the page's front matter.
 
-**New in 0.7.1**
-If you would like to darken the hero so the title stands out more, you can set `hero_darken: true` in the page's front matter. You can overwrite the default background colour by setting the `$hero-darken` sass variable.
+**New in 0.7.1** If you would like to darken the hero so the title stands out more, you can set `hero_darken: true` in the page's front matter. You can overwrite the default background colour by setting the `$hero-darken` sass variable.
 
 #### Table Of Contents
 
-**New in 0.5.8**
-If you want to display a table of contents (toc) then add `toc: true` to your page's front matter. You can customise the default table of contents title by setting `toc_title: My Custom Title` in the page's front matter.
+**New in 0.5.8** If you want to display a table of contents (toc) then add `toc: true` to your page's front matter. You can customise the default table of contents title by setting `toc_title: My Custom Title` in the page's front matter.
 
 ### Posts
 
@@ -132,7 +136,6 @@ paginate_path: "/blog/page:num"
 **New in 0.2** It will now display an image in the blog page if you set `image: /path/to/image.jpg` in your post's or page's front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
 
 You can also set the height of the hero by providing a Bulma hero height class in your front matter, such as `hero_height: is-fullwidth`. If you do not provide this, it will revert to is-medium
-
 
 ### Navigation
 
@@ -155,8 +158,6 @@ For the current page to have an active class, ensure the `link:` format matches 
 To overwrite the primary theme colour, set a sass variable in `assets/css/app.scss` before importing `main`
 
 ```
----
----
 $primary: #333333;
 // Import Main CSS file from theme
 @import "main";
@@ -284,7 +285,6 @@ It will automatically mark the active tab based on the current page.
 You can add icons to your tab by passing in the [Font Awesome icon class](https://fontawesome.com/icons?d=gallery).
 
 If you don't wish to show icons then simply omit the option from your yaml file.
-
 
 ### Google Analytics
 
@@ -550,7 +550,7 @@ sponsors: my_sponsors
 
 Disqus comments are available for posts. To be able to use them, you need to set your disqus shortname in `_config.yml`. Then you need to set your Jekyll environment to production:
 
-```JEKYLL_ENV=production bundle exec jekyll build```.
+`JEKYLL_ENV=production bundle exec jekyll build`.
 
 Comments are enabled by default. If you want to disable them, set in the front matter this setting:
 
@@ -558,11 +558,9 @@ Comments are enabled by default. If you want to disable them, set in the front m
 comments: false
 ```
 
-
-
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at <https://github.com/chrisrhymes/bulma-clean-theme>. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
