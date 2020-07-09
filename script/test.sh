@@ -23,7 +23,7 @@ bundle exec htmlproofer \
     --external-only \
     --alt-ignore \
     --empty-alt-ignore \
-    --url-ignore "/github.com/(.*)" \
+    --url-ignore "/github.com/(.*)/edit/","github.com//" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
     --http_status_ignore "429","403" \
     ./_site
