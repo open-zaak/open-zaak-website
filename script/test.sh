@@ -6,7 +6,7 @@ set -e # halt script on error
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 # MD033 Inline HTML: we allow inline HTML as needed for community pages layout and templating
 
-bundle exec mdl -r ~MD013,~MD029,~MD033 -i -g '.'
+bundle exec mdl -r ~MD013,~MD029,~MD033 -i '{**/node_modules/**}' -g '.'
 
 # Build the site
 bundle exec jekyll build
