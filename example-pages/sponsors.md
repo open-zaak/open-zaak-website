@@ -6,7 +6,7 @@ sponsors: example_sponsors
 show_sidebar: false
 ---
 
-## Sponsor link in navbar
+# Sponsor link in navbar
 
 If you have a GitHub sponsors account set up, you can add your username to `gh_sponsor` in the `_config.yml` file and it will display a link to your profile on the right of the navbar.
 
@@ -14,7 +14,7 @@ If you have a GitHub sponsors account set up, you can add your username to `gh_s
 gh_sponsor: chrisrhymes
 ```
 
-## Creating a Sponsors Datafile
+# Creating a Sponsors Datafile
 
 If you would like to create a page to thank your sponsors then create a data file, such as my_sponsors.yml file with the following structure:
 
@@ -37,10 +37,10 @@ If you would like to create a page to thank your sponsors then create a data fil
 ```
 
 The `tier_name` and `description` are required. The `size` is not required, but can be overwritten to 'large' or 'small' to increase or decrease the size of the box and the text size.
- 
+
 The sponsors require a name, but not a profile link.
 
-## Displaying the Sponsors
+# Displaying the Sponsors
 
 To display the sponsors on your page, set the sponsors to the filename without the extension in the page's front matter
 

@@ -7,7 +7,7 @@ menubar: example_menu
 hide_footer: true
 ---
 
-## Hiding the footer
+# Hiding the footer
 
 If you would like a page without the footer displayed then set hide_footer to true in the page's frontmatter
 
