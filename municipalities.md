@@ -11,11 +11,15 @@ language: en
 permalink: /municipalities
 ---
 
+## Introduction
+
 OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online.
 
 Municipalities need a new, modern information architecture to be able to register and manage cases and documents in order to support their core tasks. Cases are requests which involve a standardized proces in order to handle these requests. Cases could be citizens requiring a renewal of their passport, drivers license or needing a permit to organize an event.
 
 The current information architecture makes it difficult for municipalities to securely exchange data in their own backoffice or between other municipalities. The current systems are lacking the flexibility to quickly adept and innovate in order to implement rapid change in public policy and serve the changing needs of it's citizens. This makes maintaining and altering exisiting software increasing slow and expensive resulting in a lower quality of service with increased costs. OpenZaak was developped to solve this problem helping municipalities increase their level of service and lower the cost of ownership.
+
+### Background
 
 OpenZaak itself is not a case management or document management solution but rather a ready-to-use backend solution which functions as a directory of case registration including meta data describing the case. OpenZaak implements the national API standards for case-oriented working ([ZGW API's](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken)) developed by [VNG Realisatie](https://www.vngrealisatie.nl/). In order to fully utilize OpenZaak it needs to connect with other systems or components. Document management systems, or specialized systems to handle permits as well as the case handling component, MyApp or apps for MOR reports are examples of such systems and components.
 
