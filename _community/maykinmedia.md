@@ -1,16 +1,18 @@
 ---
-title: Association 1
-subtitle: Association 1 tagline here
-description: This is a association description
+title: Maykin Media B.V.
+subtitle: Developer
+description: This is a vendor description
 layout: community
-image: https://via.placeholder.com/640x480
+hero_image: /img/maykinmedia-background.jpg
+hero_darken: true
+image: /img/maykin-logo.png
 highlights:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
+  - label: Great addition to any home
+    icon: fa-location-arrow
+  - label: Comes in a range of styles
+    icon: fa-grin-stars
+  - label: Available in multiple sizes
+    icon: fa-fighter-jet
 ---
 
 This is the content about the vendor and how they can implement the codebase.
