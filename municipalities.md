@@ -42,4 +42,4 @@ The [codebase stewardship activities](https://about.publiccode.net/activities/co
 * work with the community to tell their stories, develop the brand and market the codebase
 * support the technical and product steering teams
 
-*[Header photo](https://www.flickr.com/photos/mammaoca2008/7242218154) by [Simona](https://www.flickr.com/photos/mammaoca2008/), license [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/).
+*[Header photo](https://www.flickr.com/photos/mammaoca2008/7242218154) by [Simona](https://www.flickr.com/photos/mammaoca2008/), license [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/).*
