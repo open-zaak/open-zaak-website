@@ -1,7 +1,7 @@
 ---
 title: Maykin Media B.V.
 subtitle: Developer
-description: This is a association description
+description: This is a vendor description
 layout: community
 hero_image: /img/maykinmedia-background.jpg
 hero_darken: true
