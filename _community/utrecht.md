@@ -1,19 +1,19 @@
 ---
-title: Municipality 1
-subtitle: municipality tagline here
-description: This is a municipality description
+title: Gemeente Utrecht
+subtitle: Subtitle
+description: Description todo
 layout: community
-image: https://via.placeholder.com/640x480
+hero_image: /img/loketutrecht.jpg
+hero_darken: true
+image: /img/gemeente-utrecht.png
 highlights:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
+  - label: Great addition to any home
+    icon: fa-location-arrow
+  - label: Comes in a range of styles
+    icon: fa-grin-stars
+  - label: Available in multiple sizes
+    icon: fa-fighter-jet
 ---
-
-This is the content about the vendor and how they can implement the codebase.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis.
 
