@@ -10,11 +10,15 @@ language: en
 permalink: /vendors
 ---
 
+## What is OpenZaak?
+
 OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online.
 
 OpenZaak implements the national API standards for case-oriented working (ZGW API's) developed by [VNG Realisatie](https://www.vngrealisatie.nl/). In order to fully utilize OpenZaak it needs to connect with other systems or components. Document management systems, or specialized systems to handle permits as well as the case handling component, MyApp or apps for MOR reports are examples of such systems and components.
 
 OpenZaak itself is not a case management or document management solution but rather a ready-to-use backend solution which functions as a directory of case registration including meta data describing the case. OpenZaak implements the national API standards for case-oriented working ([ZGW API's](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken))  developed by [VNG Realisatie](https://www.vngrealisatie.nl/). In order to fully use OpenZaak it needs to connect with other systems or components. Document management systems, or specialized systems to handle permits as well as the case handling component, MyApp or apps for MOR reports are examples of such systems and components.
+
+## What does that mean for me as a vendor?
 
 This means vendors can offer different types of services around OpenZaak. The most common types of services around OpenZaak are:
 
