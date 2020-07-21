@@ -46,5 +46,3 @@ After reading the use cases start experimenting with the codebase by installing 
 
 This is of course up to you. You could develop a service with a subscription model or sell a service contract. Public organisations need to follow strict rules when procuring products and services. Procurement rules differ between municipalities. Small and mid-sized municipalities typically procure together through associations such as [Dimpact](https://www.dimpact.nl/).
 
-
-(*)= Header photo created by [Simona](https://www.flickr.com/photos/mammaoca2008/7242218154) used with permission.
