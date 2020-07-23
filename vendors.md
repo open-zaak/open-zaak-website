@@ -42,7 +42,7 @@ We also invite you to [join and participate our community](/community) to learn 
 
 ## How can I integrate OpenZaak into my product or service?
 
-The answer to this question largely depends on what kind of vendor you are and what value you want to offer, i.e. whether you are a full service IT vendor or software vendor. There are vendors who have decided to implement the ZGW API's from scratch and to not rely on OpenZaak and there are vendors who have integrated the OpenZaak codebased into their own product. Some vendors focus on hosting the back-end towards municipalities or even other vendors.
+The answer to this question largely depends on what kind of vendor you are and what value you want to offer, whether you are a full service IT vendor or software vendor. There are vendors who have decided to implement the ZGW API's from scratch and to not rely on OpenZaak and there are vendors who have integrated the OpenZaak codebased into their own product. Some vendors focus on hosting the back-end towards municipalities or even other vendors.
 
 After reading the use cases, start experimenting with the codebase by installing a local copy of OpenZaak to learn more. Reach out to the OpenZaak community.
 
