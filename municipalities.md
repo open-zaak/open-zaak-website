@@ -17,13 +17,13 @@ OpenZaak is an open source case register platform for municipalites who want to 
 
 Municipalities need a new, modern information architecture to be able to register and manage cases and documents in order to support their core tasks. Cases are requests which involve a standardized process in order to handle these requests. Cases could be renewals of passports, drivers licenses or permits required to organize an event.
 
-The current information architecture makes it difficult for municipalities to securely exchange data in their own backoffice or between other municipalities. The current systems are lacking the flexibility to quickly adept and innovate in order to implement rapid change in public policy and serve the changing needs of its citizens. This makes maintaining and altering exisiting software increasingly slow and expensive resulting in a lower quality of service with higher costs. OpenZaak was developed to solve this problem helping municipalities increase their level of service and lower the cost of ownership.
+The current information architecture makes it difficult for municipalities to securely exchange data in their own backoffice or between other municipalities. The current systems are lacking the flexibility to quickly adapt and innovate in order to implement rapid change in public policy and serve the changing needs of its citizens. This makes maintaining and altering exisiting software increasingly slow and expensive resulting in a lower quality of service with higher costs. OpenZaak was developed to solve this problem helping municipalities increase their level of service and lower the cost of ownership.
 
 ### Background
 
 OpenZaak itself is not a case management or document management solution but rather a ready-to-use backend solution which functions as a directory of case registration including metadata describing the case. OpenZaak implements the national API standards for case-oriented working ([ZGW API's](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken)) developed by [VNG Realisatie](https://www.vngrealisatie.nl/). In order to fully utilize OpenZaak it needs to connect with other systems or components. Document management systems, or specialized systems to handle permits as well as the case handling component, MyApp or apps for MOR reports are examples of such systems and components.
 
-OpenZaak was originally developed by Maykin Media B.V. and commissioned by Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft and a coalition of Hoorn, Medemblik, Stede Broec, Drechteland, Enkhuizen (SED) under direction of [Dimpact](https://www.dimpact.nl/).
+OpenZaak was initially developed by Maykin Media B.V. and commissioned by Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft and a coalition of Hoorn, Medemblik, Stede Broec, Drechteland, Enkhuizen (SED) under direction of [Dimpact](https://www.dimpact.nl/).
 
 ## What kind of OpenZaak service do I need consider?
 
