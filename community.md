@@ -19,6 +19,6 @@ Below you can see organizations who are contributing members of the OpenZaak com
 <section>
 <p>We invite you to sign up to the <a href="https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/">OpenZaak mailinglist</a> to participate in community discussions and decision making process. Furthermore you can join the <a href="#">OpenZaak community calls</a> to learn more and meet the OpenZaak community.</p>
 
-Or start <a href="https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md">contributing straigt away!</a>
+Or start <a href="https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md">contributing straight away!</a>
 
 </section>
