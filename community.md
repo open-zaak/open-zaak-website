@@ -26,7 +26,7 @@ We like this community to grow, do you want to join us?</p>
 <section>
 <h2>Ways to connect and contribute</h2>
 <p>We invite you to sign up to the <a href="https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/">OpenZaak mailinglist</a> to participate in community discussions and decision making process.
-Furthermore you can join the <a href="#">OpenZaak community calls</a> to learn more and meet the OpenZaak community.</p>
+Furthermore you can join the OpenZaak community calls to learn more and meet the OpenZaak community. The first one <a href="https://lists.publiccode.net/hyperkitty/hyperkitty/list/openzaak-discuss@lists.publiccode.net/thread/2DMFAE2SIC3IBASX4HJGCS2E7PZAQNVN/">will take place September 9, 2020</a> (see link for agenda).</p>
 
 <p>Or start <a href="https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md">contributing straight away!</a>
 There are more things to do than just code, you can help by; reporting a bug, improving documentation or even spreading the word about OpenZaak.</p>
