@@ -38,7 +38,7 @@ As a vendor you also benefit from knowledge and the continued development and su
 
 The best way to start is to sign up to the [OpenZaak mailing list](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/) to connect with the OpenZaakcommunity. Furthermore you can join the [OpenZaak community calls](#) to learn more and meet the OpenZaak codebase and community.
 
-We also invite you to [join and participate our community](/community) to learn how other municipalities and vendors are using OpenZaak. 
+We also invite you to [join and participate our community](/community) to learn how other municipalities and vendors are using OpenZaak.
 
 ## How can I integrate OpenZaak into my product or service?
 
@@ -46,7 +46,6 @@ The answer to this question largely depends on what kind of vendor you are and w
 
 After reading the use cases, start experimenting with the codebase by installing a local copy of OpenZaak to learn more. Reach out to the OpenZaak community.
 
-## How can I sell my product or services? @TODO
+## How can I sell my product or services?
 
 This is of course up to you. You could develop a service with a subscription model or sell a service contract. Public organisations need to follow strict rules when procuring products and services. Procurement rules differ between jurisdictions. Small and mid-sized municipalities typically procure together through associations such as [Dimpact](https://www.dimpact.nl/).
-
