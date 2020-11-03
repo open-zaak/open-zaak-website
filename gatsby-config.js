@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Signalen`,
-    description: `Signalen is een opensource proces- en taaksysteem voor overheden, dat meldingen over de openbare ruimte automatisch categoriseert en routeert voor afhandeling door de juiste behandelaar.`,
-    author: `VNG Realisatie`,
-    repositoryUrl: `https://www.github.com/signalen`,
-    slackUrl: `https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q`,
+    title: `OpenZaak`,
+    description: `OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online.`,
+    author: `The OpenZaak Community`,
+    repositoryUrl: `https://github.com/open-zaak/`,
+    slackUrl: `https://samenorganiseren.slack.com/archives/CT6UH711Q`,
     languages: ['en' ,'nl'],
     defaultLanguage: 'nl'
   },
@@ -33,11 +33,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Signalen`,
-        short_name: `signalen`,
+        name: `OpenZaak`,
+        short_name: `openzaak`,
         start_url: `/`,
         display: `standalone`,
-        icon: `src/images/logo.png`,
+        icon: `src/images/openzaaklogo.svg`,
       },
     },
     `gatsby-plugin-i18n`,
