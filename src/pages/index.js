@@ -23,7 +23,7 @@ import rapportage from '../images/rapportage.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="Samenwerken aan leefbaarheid" />
+    <SEO title="Online diensten voor burgers" />
     <Background backgroundColor="#A8D0E6">
       <Container>
         <Navigation as="nav" location={location} />
@@ -41,15 +41,13 @@ const IndexPage = ({ location }) => (
       <Section id="over-signalen">
         <Flex>
           <Box>
-            <p>Signalen is een proces- en taaksysteem, ontwikkeld op initiatief van de gemeente Amsterdam voor het effectiever en klantvriendelijker afhandelen van meldingen over de openbare ruimte.</p>
-            <p>Amsterdam krijgt per jaar zo’n 300.000 meldingen over de openbare ruimte te verwerken. Van huisraad bij de vuilnisbak tot en met verlaten sloepjes in de gracht. Ruim 1.400 ambtenaren werken 24/7 met het afhandelen van meldingen in Signalen. Sinds de invoering van Signalen is de klanttevredenheid over de afhandeling van meldingen in Amsterdam met ruim 30 procent gestegen.</p>
-            <p>De Signalen software is open source ontwikkeld en kan vrij gebruikt worden door andere overheden en gemeenten.</p>
+            <p>OpenZaak is een open source zaaksysteem die de nationale standaard voor zaakgericht werken implementeert (de ZGW-API’s). OpenZaak is software die het mogelijk maakt voor gemeenten om sneller en eenvoudiger online diensten aan te kunnen bieden aan haar inwoners en noodzakelijke data te kunnen uitwisselen tussen gemeenten.</p>
           </Box>
         </Flex>
       </Section>
 
       <Section textAlign="center">
-        <iframe title="Video met introductie van Signalen" src="https://www.youtube-nocookie.com/embed/AdBNyYwbf8A?autoplay=0&showinfo=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+        <iframe title="Demo van het gebruik van OpenZaak" src="https://player.vimeo.com/video/389842983" width="640" height="360" frameborder="0" allowfullscreen></iframe>
       </Section>
 
       <Section>
