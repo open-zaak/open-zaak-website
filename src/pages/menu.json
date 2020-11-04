@@ -1,13 +1,13 @@
 {
   "nl": [
     {
-      "title": "Over Signalen",
+      "title": "Over OpenZaak",
       "link": "/#over-signalen",
       "partiallyActive": false
     },
     {
-      "title": "Signalen gebruiken",
-      "link": "/using-signalen",
+      "title": "OpenZaak gebruiken",
+      "link": "/using-openzaak",
       "partiallyActive": false
     },
     {
@@ -28,12 +28,12 @@
   ],
   "en": [
     {
-      "title": "About Signalen",
-      "link": "/en/#about-signalen",
+      "title": "About OpenZaak",
+      "link": "/en/#about-openzaak",
       "partiallyActive": false
     },
     {
-      "title": "Using Signalen",
+      "title": "Using OpenZaak",
       "link": "/en/using-signalen",
       "partiallyActive": false
     },

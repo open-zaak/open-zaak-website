@@ -1,8 +1,8 @@
-# Signalen website
+# OpenZaak website
 
-A website to get potential new users of Signalen to get to know it and get them started.
+A website to get potential new users of OpenZaak to get to know it and get them started.
 
-This site is a collaborative project by the Signalen community and is meant to be [easy to contribute to](CONTRIBUTING.md).
+This site is a collaborative project by the OpenZaak community and is meant to be [easy to contribute to](CONTRIBUTING.md).
 
 ## Building, testing and deploying
 
