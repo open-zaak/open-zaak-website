@@ -3,7 +3,7 @@ import { Link, useStaticQuery, graphql } from 'gatsby'
 import { getCurrentLangKey, getUrlForLang } from 'ptz-i18n'
 
 import { StyledNav, StyledTitleLink, StyledTitle, StyledList, StyledListItem } from './index.styles'
-import SignalenLogo from '../SignalenLogo'
+import OpenzaakLogo from '../OpenzaakLogo'
 import GithubLogo from '../GithubLogo'
 import SlackLogo from '../SlackLogo'
 import LanguageSelector from '../LanguageSelector'
@@ -45,7 +45,7 @@ const Navigation = ({ location }) => {
     <StyledNav>
       <StyledTitleLink to={homeLink}>
         <StyledTitle>
-          <SignalenLogo />
+          <OpenzaakLogo />
           <span>{site.siteMetadata.title}</span>
         </StyledTitle>
       </StyledTitleLink>
