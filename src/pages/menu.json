@@ -16,8 +16,8 @@
       "partiallyActive": false
     },
     {
-      "title": "Community",
-      "link": "/community",
+      "title": "Commond Groud",
+      "link": "/common-ground",
       "partiallyActive": true
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "title": "Using OpenZaak",
-      "link": "/en/using-signalen",
+      "link": "/en/using-openzaak",
       "partiallyActive": false
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "title": "Community",
-      "link": "/en/community",
+      "link": "/en/common-ground",
       "partiallyActive": true
     },
     {

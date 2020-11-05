@@ -41,7 +41,7 @@ const IndexPage = ({ location }) => (
       <Section id="over-openzaak">
         <Flex>
           <Box>
-            <p>OpenZaak is een open source zaaksysteem server die de nationale standaard voor zaakgericht werken implementeert (de ZGW-API’s). OpenZaak is software die het mogelijk maakt voor gemeenten om sneller en eenvoudiger online diensten aan te kunnen bieden aan haar inwoners en noodzakelijke data te kunnen uitwisselen tussen gemeenten.</p>
+            <p>OpenZaak is een open source software die de nationale standaard voor zaakgericht werken implementeert (de ZGW-API’s). OpenZaak maakt het mogelijk voor gemeenten om sneller en eenvoudiger online diensten aan te kunnen bieden aan haar inwoners en noodzakelijke data te kunnen uitwisselen tussen gemeenten.</p>
           </Box>
         </Flex>
       </Section>
@@ -56,8 +56,8 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={meldingMakenOntvangen} alt="Illustratie van persoon met pen" />
           </Box>
           <Box width={3/5}>
-            <h2>Zaken, besluiten, Documenten</h2>
-            <p>Bewoners, bezoekers en bedrijven doen hun meldingen over de openbare ruimte in een tekstveld op een pagina op de gemeentewebsite. Dit tekstveld is in feite een interactief portaal. De melder hoeft niet langer zelf een categorie te kiezen voor de melding. Signalen kent die automatisch toe, op basis van honderdduizenden eerder geclassificeerde meldingen. Gemeenten die Signalen gaan gebruiken, trainen het algoritme met eigen data in eigen classificaties.</p>
+            <h2>Zaken, Besluiten, Documenten</h2>
+            <p>OpenZaak implementeert de Zaken API, Besluiten API en Documenten API. Zo bent u vrij om te kiezen waar u deze wil opslaan .</p>
           </Box>
         </Flex>
       </Section>
@@ -66,7 +66,7 @@ const IndexPage = ({ location }) => (
         <Flex>
           <Box width={3/5}>
             <h2>Catalogi & gemeentelijke selectielijsten</h2>
-            <p>De automatische classificering kan worden gekoppeld aan dynamische routering. Dit betekent dat op basis van de categorie van een melding, deze automatisch wordt doorverwezen naar de juiste behandelaar en/of afdeling. Iedere gemeenten configureert Signalen voor haar eigen, lokale situatie.</p>
+            <p>OpenZaak bevat een beheer interface voor catalogi en gemeentelijke selectielijsten. </p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={categoriserenRouteren} alt="Illustratie van robot" />
@@ -81,8 +81,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Autorisatie & Beheer</h2>
-            <p>Medewerkers die meldingen behandelen zien in Signalen altijd de actuele status van een melding, en de historie. Dat scherm kan tot op bepaalde hoogte worden gepersonaliseerd, voor groter werkgemak.</p>
-            <p>Medewerkers hebben geen nieuwe inloggegevens nodig om te werken met Signalen. Inloggen gaat hetzelfde als bij de andere gemeentelijke systemen met behulp van Single Sign On.</p>
+            <p> OpenZaak autorisatie module waarmee u snel de toegang tot behaalde API's kunt beheren. Hiernaast bevat OpenZaak een beheer module waarin u snel het overzicht en 
           </Box>
         </Flex>
       </Section>
