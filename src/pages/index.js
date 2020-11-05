@@ -23,7 +23,7 @@ import rapportage from '../images/rapportage.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="Online diensten voor burgers" />
+    <SEO title="OpenZaak: Online dienstverlening voor burgers" />
     <Background backgroundColor="#3298DC">
       <Container>
         <Navigation as="nav" location={location} />
@@ -38,10 +38,10 @@ const IndexPage = ({ location }) => (
       </Container>
     </Background>
     <Container>
-      <Section id="over-signalen">
+      <Section id="over-openzaak">
         <Flex>
           <Box>
-            <p>OpenZaak is een open source zaaksysteem die de nationale standaard voor zaakgericht werken implementeert (de ZGW-API’s). OpenZaak is software die het mogelijk maakt voor gemeenten om sneller en eenvoudiger online diensten aan te kunnen bieden aan haar inwoners en noodzakelijke data te kunnen uitwisselen tussen gemeenten.</p>
+            <p>OpenZaak is een open source zaaksysteem server die de nationale standaard voor zaakgericht werken implementeert (de ZGW-API’s). OpenZaak is software die het mogelijk maakt voor gemeenten om sneller en eenvoudiger online diensten aan te kunnen bieden aan haar inwoners en noodzakelijke data te kunnen uitwisselen tussen gemeenten.</p>
           </Box>
         </Flex>
       </Section>
@@ -56,7 +56,7 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={meldingMakenOntvangen} alt="Illustratie van persoon met pen" />
           </Box>
           <Box width={3/5}>
-            <h2>Meldingen classificeren</h2>
+            <h2>Zaken, besluiten, Documenten</h2>
             <p>Bewoners, bezoekers en bedrijven doen hun meldingen over de openbare ruimte in een tekstveld op een pagina op de gemeentewebsite. Dit tekstveld is in feite een interactief portaal. De melder hoeft niet langer zelf een categorie te kiezen voor de melding. Signalen kent die automatisch toe, op basis van honderdduizenden eerder geclassificeerde meldingen. Gemeenten die Signalen gaan gebruiken, trainen het algoritme met eigen data in eigen classificaties.</p>
           </Box>
         </Flex>
@@ -65,7 +65,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Meldingen routeren</h2>
+            <h2>Catalogi & gemeentelijke selectielijsten</h2>
             <p>De automatische classificering kan worden gekoppeld aan dynamische routering. Dit betekent dat op basis van de categorie van een melding, deze automatisch wordt doorverwezen naar de juiste behandelaar en/of afdeling. Iedere gemeenten configureert Signalen voor haar eigen, lokale situatie.</p>
           </Box>
           <Box width={2/5}>
@@ -80,7 +80,7 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={behandelen} alt="Illustratie van persoon in werkkleding" />
           </Box>
           <Box width={3/5}>
-            <h2>Meldingen behandelen</h2>
+            <h2>Autorisatie & Beheer</h2>
             <p>Medewerkers die meldingen behandelen zien in Signalen altijd de actuele status van een melding, en de historie. Dat scherm kan tot op bepaalde hoogte worden gepersonaliseerd, voor groter werkgemak.</p>
             <p>Medewerkers hebben geen nieuwe inloggegevens nodig om te werken met Signalen. Inloggen gaat hetzelfde als bij de andere gemeentelijke systemen met behulp van Single Sign On.</p>
           </Box>
@@ -90,7 +90,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Rapporteren</h2>
+            <h2>API Dashboard</h2>
             <p>Signalen kan eenvoudig worden gekoppeld aan rapportagetools zoals Tableau. Rapportages over meldingen openbare ruimte kunnen dus naar eigen wens worden ingericht.</p>
           </Box>
           <Box width={2/5}>
