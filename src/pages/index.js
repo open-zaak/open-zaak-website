@@ -56,7 +56,7 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={meldingMakenOntvangen} alt="Illustratie van persoon met pen" />
           </Box>
           <Box width={3/5}>
-            <h2>Zaken, Besluiten, Documenten</h2>
+            <h2>Zaken, Besluiten, Documenten en Open Notificaties</h2>
             <p>OpenZaak implementeert de Zaken API, Besluiten API en Documenten API. Zo bent u vrij om te kiezen waar u deze wil opslaan .</p>
           </Box>
         </Flex>
@@ -81,7 +81,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Autorisatie & Beheer</h2>
-            <p> OpenZaak autorisatie module waarmee u snel de toegang tot behaalde API's kunt beheren. Hiernaast bevat OpenZaak een beheer module waarin u snel het overzicht en 
+            <p> OpenZaak autorisatie module waarmee u snel de toegang tot behaalde API's kunt beheren. </p>
           </Box>
         </Flex>
       </Section>
