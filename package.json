@@ -1,5 +1,5 @@
 {
-  "name": "@signalen/signalen.org",
+  "name": "@openzaak/openzaak-website",
   "private": true,
   "version": "0.0.0",
   "dependencies": {
