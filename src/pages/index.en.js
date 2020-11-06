@@ -38,7 +38,7 @@ const IndexPage = ({ location }) => (
       </Container>
     </Background>
     <Container>
-      <Section id="about-signalen">
+      <Section id="about-openzaak">
         <Flex>
           <Box>
           <p> Signalen is an open source process and task system for governments, which automatically categorizes and routes reports about public space for processing by the appropriate handler. </p>
