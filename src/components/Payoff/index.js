@@ -7,10 +7,10 @@ const Payoff = () => (
   <StyledContainer>
     <StyledIntro>
       <StyledTextContainer>
-        <StyledHeading>Signalen</StyledHeading>
-        <StyledParagraph>Samenwerken aan leefbaarheid</StyledParagraph>
-        <StyledSubParagraph>Signalen is een open source proces- en taaksysteem voor overheden, dat meldingen over de openbare ruimte automatisch categoriseert en routeert voor afhandeling door de juiste behandelaar.</StyledSubParagraph>
-        <StyledSubParagraph><a href="/#over-signalen">Lees hier meer over Signalen</a></StyledSubParagraph>
+        <StyledHeading>OpenZaak</StyledHeading>
+        <StyledParagraph>Online dienstverlening voor burgers</StyledParagraph>
+        <StyledSubParagraph>OpenZaak is een open source software die de nationale standaard voor zaakgericht werken implementeert (de ZGW-API’s). OpenZaak maakt het mogelijk voor gemeenten om sneller en eenvoudiger online diensten aan te kunnen bieden aan haar inwoners en noodzakelijke data te kunnen uitwisselen tussen gemeenten.</StyledSubParagraph>
+        <StyledSubParagraph><a href="/#over-openzaak">Lees hier meer over OpenZaak</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
