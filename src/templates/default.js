@@ -6,6 +6,7 @@ import Navigation from '../components/Navigation'
 import Layout from '../components/Layout'
 import Footer from '../components/Footer'
 import Container from '../components/Container'
+import Background from '../components/Background'
 
 export default function Template({ data, location }) {
   const { markdownRemark: post } = data
@@ -13,11 +14,14 @@ export default function Template({ data, location }) {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
+      <Background backgroundColor="#178be9">
+  
       <nav>
         <Container>
           <Navigation location={location} />
         </Container>
       </nav>
+      </Background>
       <main>
         <Container>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />

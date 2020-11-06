@@ -24,9 +24,11 @@ import saas from '../images/saas.svg'
 const RoadmapPage = ({ location }) => (
   <Layout>
     <SEO title="Roadmap" />
+    <Background backgroundColor="#178be9">
     <Container>
       <Navigation as="nav" location={location} />
     </Container>
+    </Background>
     <Background backgroundColor="#f5f5f6">
       <Container>
         <Section>

@@ -46,7 +46,7 @@ const Navigation = ({ location }) => {
       <StyledTitleLink to={homeLink}>
         <OpenzaakLogo />
         <StyledTitle>
-          
+
         </StyledTitle>
       </StyledTitleLink>
       <StyledList>
