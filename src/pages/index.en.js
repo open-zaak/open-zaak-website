@@ -24,7 +24,7 @@ import rapportage from '../images/rapportage.svg'
 const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Working together for quality of life" />
-    <Background backgroundColor="#3298DC">
+    <Background backgroundColor="#178be9">
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
@@ -32,7 +32,7 @@ const IndexPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
-    <Background backgroundColor="#24305E">
+    <Background backgroundColor="#178be9">
       <Container>
         <Logos />
       </Container>

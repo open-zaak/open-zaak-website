@@ -16,8 +16,8 @@
       "partiallyActive": false
     },
     {
-      "title": "Commond Groud",
-      "link": "/common-ground",
+      "title": "Community",
+      "link": "/community",
       "partiallyActive": true
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "title": "Community",
-      "link": "/en/common-ground",
+      "link": "/en/community",
       "partiallyActive": true
     },
     {

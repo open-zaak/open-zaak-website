@@ -12,7 +12,7 @@ export const StyledNav = styled.div`
 
   a {
     text-decoration: none;
-    color: #24305E !important;
+    color: #ffffff !important;
   }
 
   ${mediaQueries.smUp`
@@ -49,7 +49,7 @@ export const StyledListItem = styled.li`
   a {
     padding: ${(p) =>
       `${p.theme.tokens.spacing05} ${p.theme.tokens.spacing05}`};
-    color: #24305E !important;
+    color: #ffffff !important;
     font-weight: ${(p) => p.theme.tokens.fontWeightSemiBold};
     text-decoration: none;
 
