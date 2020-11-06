@@ -1,7 +1,7 @@
 import styled from 'styled-components/macro'
 
 const Background = styled.div`
-  background-color: ${(p) => p.backgroundColor || "#f5f5f6"};
+  background-color: ${(p) => p.backgroundColor || "#178be9"};
   color: ${(p) => p.color || "#000000"};
 
   a {

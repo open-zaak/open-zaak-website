@@ -57,7 +57,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Zaken, Besluiten, Documenten en Open Notificaties</h2>
-            <p>OpenZaak implementeert de Zaken API, Besluiten API en Documenten API. Zo bent u vrij om te kiezen waar u deze wil opslaan .</p>
+            <p>OpenZaak implementeert de ZGW API's en combineert deze met een gebruiksvriendelijke beheersinterface. Door gebruik te maken van de open notificaties standaard kunnen updates van zaken makkelijk gepubliceerd worden naar verschillende systemen.</p>
           </Box>
         </Flex>
       </Section>
@@ -81,7 +81,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Autorisatie & Beheer</h2>
-            <p> OpenZaak autorisatie module waarmee u snel de toegang tot behaalde API's kunt beheren. </p>
+            <p> OpenZaak autorisatie module waarmee u snel de toegang tot de Zaakgericht werken API's kunt beheren en monitoren. </p>
           </Box>
         </Flex>
       </Section>
