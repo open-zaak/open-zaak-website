@@ -44,9 +44,9 @@ const Navigation = ({ location }) => {
   return (
     <StyledNav>
       <StyledTitleLink to={homeLink}>
+        <OpenzaakLogo />
         <StyledTitle>
-          <OpenzaakLogo />
-          <span>{site.siteMetadata.title}</span>
+          
         </StyledTitle>
       </StyledTitleLink>
       <StyledList>

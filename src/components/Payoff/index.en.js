@@ -7,10 +7,10 @@ const Payoff = () => (
   <StyledContainer>
     <StyledIntro>
       <StyledTextContainer>
-        <StyledHeading>Signalen</StyledHeading>
-        <StyledParagraph>Working together for quality of life</StyledParagraph>
-        <StyledSubParagraph>Signalen is an open source process and task system for governments, which automatically categorizes and routes reports about public space for processing by the appropriate handler.</StyledSubParagraph>
-        <StyledSubParagraph><a href="/en/#about-signalen">More information on Signalen</a></StyledSubParagraph>
+        <StyledHeading>OpenZaak</StyledHeading>
+        <StyledParagraph>Online Services for Citizens</StyledParagraph>
+        <StyledSubParagraph>OpenZaak is an open-source case register API provision platform for municipalities who want to deliver citizen-friendly services online.</StyledSubParagraph>
+        <StyledSubParagraph><a href="/en/#about-openzaak">More information on OpenZaak</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
