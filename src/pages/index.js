@@ -16,8 +16,8 @@ import Background from '../components/Background'
 import Logos from '../components/Logos'
 import Timeline from '../components/Timeline'
 
-import meldingMakenOntvangen from '../images/melding-maken-ontvangen.svg'
-import categoriserenRouteren from '../images/categoriseren-routeren.svg'
+import zakenOntvangen from '../images/undraw_file_analysis_8k9b.svg'
+import selectieLijst from '../images/undraw_Done_checking_re_6vyx.svg'
 import behandelen from '../images/behandelen.svg'
 import rapportage from '../images/rapportage.svg'
 
@@ -53,7 +53,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={meldingMakenOntvangen} alt="Illustratie van persoon met pen" />
+            <ResponsiveImage src={zakenOntvangen} alt="Illustratie van persoon en document" />
           </Box>
           <Box width={3/5}>
             <h2>Zaken, Besluiten, Documenten en Open Notificaties</h2>
@@ -69,7 +69,7 @@ const IndexPage = ({ location }) => (
             <p>OpenZaak bevat een beheer interface voor catalogi en gemeentelijke selectielijsten. </p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={categoriserenRouteren} alt="Illustratie van robot" />
+            <ResponsiveImage src={selectieLijst} alt="Illustratie van documenten met checklist" />
           </Box>
         </Flex>
       </Section>
