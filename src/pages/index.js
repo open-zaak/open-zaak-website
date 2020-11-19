@@ -106,7 +106,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Syteem integraties</h2>
-            <p>Omdat OpenZaak open source is kunnen leveranciers OpenZaak integreren in hun document en content management systemen en heeft u de vrijheid om gebruik te maken van uw bestaande of nieuwe applicaties. Zo kan OpenZaak koppelen met onder andere: Contezza DMS en Alfreso.</p>
+            <p>Omdat OpenZaak open source is kunnen leveranciers OpenZaak systeem integraties ontwikkelen voor hun document en content management systemen. Zo heeft u de vrijheid om gebruik te maken van bestaande of nieuwe applicaties in combinatie met OpenZaak. OpenZaak koppelt onder andere met Contezza DMS en Alfreso.</p>
           </Box>
         </Flex>
       </Section>
