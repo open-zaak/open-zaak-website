@@ -16,14 +16,15 @@ import Background from '../components/Background'
 import Logos from '../components/Logos'
 import Timeline from '../components/Timeline'
 
-import meldingMakenOntvangen from '../images/melding-maken-ontvangen.svg'
-import categoriserenRouteren from '../images/categoriseren-routeren.svg'
-import behandelen from '../images/behandelen.svg'
-import rapportage from '../images/rapportage.svg'
+import casesImage from '../images/undraw_file_analysis_8k9b.svg'
+import selectionImage from '../images/undraw_personal_settings_kihd.svg'
+import authorizationImage from '../images/undraw_two_factor_authentication_namy.svg'
+import dashboardImage from '../images/undraw_dashboard_nklg.svg'
+import integrationImage from '../images/undraw_hologram_fjwp.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="Working together for quality of life" />
+    <SEO title="OpenZaak: Online services for citizens" />
     <Background backgroundColor="#178be9">
       <Container>
         <Navigation as="nav" location={location} />
@@ -41,23 +42,23 @@ const IndexPage = ({ location }) => (
       <Section id="about-openzaak">
         <Flex>
           <Box>
-          <p> Signalen is an open source process and task system for governments, which automatically categorizes and routes reports about public space for processing by the appropriate handler. </p>
+          <p>OpenZaak is a production-ready API platform that implements <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">the Dutch national standard for case-oriented working</a> (also known as the < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). OpenZaak makes it possible for municipalities to offer safe and reliable online services to its citizens. Because OpenZaak relies on <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">the case-oriented working standard</a>, it becomes easier to securely exchange data with other municipalities and / or applications. OpenZaak is open source software. This means that everyone is free to reuse this software or adapt it to their needs.</p>
           </Box>
         </Flex>
       </Section>
 
       <Section textAlign="center">
-        <iframe title="Video with introduction of Signalen" src="https://www.youtube-nocookie.com/embed/AdBNyYwbf8A?autoplay=0&showinfo=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+        <iframe title="Demo usage OpenZaak" src="https://player.vimeo.com/video/389842983" width="640" height="360" frameborder="0" allowfullscreen></iframe>
       </Section>
 
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={meldingMakenOntvangen} alt="Illustratie van persoon met pen" />
+            <ResponsiveImage src={casesImage} alt="Illustratie van persoon met pen" />
           </Box>
           <Box width={3/5}>
-            <h2>Classify notifications</h2>
-            <p>Residents, visitors and companies make their reports about the public space in a text field on a page on the municipality's website. This text field is in fact an interactive portal. The reporter doesn't have to choose a category for the report. Signalen automatically assigns them, based on hundreds of thousands of previously classified reports. Municipalities that are going to use Signalen train the algorithm with their own data in their own classifications.</p>
+            <h2>Cases, Decisions, Documents and Open Notifications</h2>
+            <p>OpenZaak implements the < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a> and combines them with a user-friendly management interface. By using the open notifications standard, updates on citizens cases can be published to different systems. In this way, every system is automatically informed about the status of a case.</p>
           </Box>
         </Flex>
       </Section>
@@ -65,11 +66,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Routing notifications</h2>
-            <p>The automatic classification can be linked to dynamic routing. This means that based on the category of a notification, it is automatically referred to the correct handler and/or department. Each municipality configures Signalen for its own local situation.</p>
+            <h2>Catalogue & municipal selection lists</h2>
+            <p>OpenZaak includes a management interface for catalogs and municipal selection lists. For example, you can use standard selection lists when implementing your business process and adjust or supplement them where necessary.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={categoriserenRouteren} alt="Illustration of robot" />
+            <ResponsiveImage src={selectionImage} alt="Illustration of robot" />
           </Box>
         </Flex>
       </Section>
@@ -77,12 +78,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={behandelen} alt="Illustratie van persoon in werkkleding" />
+            <ResponsiveImage src={authorizationImage} alt="Illustratie van persoon in werkkleding" />
           </Box>
           <Box width={3/5}>
-            <h2>Handling reports</h2>
-            <p>Employees handling notifications always see the current status of a notification in Signalen, and its history. That screen can be personalized to a certain extent, for greater ease of work.</p>
-            <p>Employees do not need new login details to work with Signalen. Logging in is the same as with the other municipal systems using Single Sign On.</p>
+            <h2>Authorization & Access management</h2>
+            <p>OpenZaak includes an authorization module which helps you manage and monitor controlled access to the OpenZaak APIs. This gives you a central overview of which applications have access to which APIs and data.</p>
           </Box>
         </Flex>
       </Section>
@@ -90,14 +90,27 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Report</h2>
-            <p>Signalen can easily be linked to reporting tools such as Tableau. Reports on public space reports can therefore be set up according to your own wishes.</p>
+            <h2>API Dashboard</h2>
+            <p>OpenZaak includes an API dashboard that provides insight into the use of OpenZaak. This will give you a better insight into the usage of OpenZaak. This can help adjust and prioritize the handling of cases.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={rapportage} alt="Illustratie of person with tablet showing graphs" />
+            <ResponsiveImage src={dashboardImage} alt="Illustratie of person with tablet showing graphs" />
           </Box>
         </Flex>
       </Section>
+
+      <Section>
+        <Flex>
+          <Box width={2/5}>
+            <ResponsiveImage src={integrationImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
+          </Box>
+          <Box width={3/5}>
+            <h2>Sytem integrations</h2>
+            <p>Because OpenZaak is open source, suppliers can develop OpenZaak system integrations for their document and content management systems. This gives you the freedom to use existing or new applications in combination with OpenZaak. OpenZaak integrates with Contezza DMS and Alfreso, among others.</p>
+          </Box>
+        </Flex>
+      </Section>
+
     </Container>
     <Background backgroundColor="#f5f5f6">
       <Container>
