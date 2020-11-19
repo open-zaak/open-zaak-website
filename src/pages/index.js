@@ -78,7 +78,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={authorizationImage} alt="Illustratie van persoon in werkkleding" />
+            <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
           </Box>
           <Box width={3/5}>
             <h2>Autorisatie & Beheer</h2>
@@ -102,7 +102,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
+            <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
           </Box>
           <Box width={3/5}>
             <h2>Syteem integraties</h2>
