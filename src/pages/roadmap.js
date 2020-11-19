@@ -38,80 +38,63 @@ const RoadmapPage = ({ location }) => (
     </Background>
     <Container>
       <Section>
-          Heb je ideeën over de toekomstige ontwikkeling van Signalen of mis
-          je bepaalde functionaliteit? Kijk op het <a href="https://github.com/orgs/Signalen/projects/2">feature request backlog</a>.
+          Heb je ideeën over de toekomstige ontwikkeling van OpenZaak of mis je bepaalde functionaliteit? Kijk op het <a href="#">feature request backlog</a>.
       </Section>
     </Container>
     <Container>
       <Timeline>
       <Timeline.Container align="right">
           <Timeline.Content>
-            <Span fontSize="0.9rem">2018</Span>
-            <Heading as="h3" fontSize="1.5rem">Start ontwikkeling SIA</Heading>
-            <p>Gemeente Amsterdam start de ontwikkeling van Signalen in Amsterdam (SIA) met de afdeling Dienstverlening en het Datalab. SIA is opensource en daarmee vrij bruikbaar voor anderen.</p>
+            <Span fontSize="0.9rem">Q3 - 2019</Span>
+            <Heading as="h3" fontSize="1.5rem">Start implementatie</Heading>
+            <p></p>
             <ResponsiveImage src={startOntwikkeling} />
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Start initiatief</Heading>
-            <p>Start van het Signalen initiatief! Veel gemeenten in Nederland hebben interesse voor Signalen. Op basis van deze animo, start VNGr met het opschalen van Signalen.</p>
+            <Span fontSize="0.9rem">Q4 - 2019</Span>
+            <Heading as="h3" fontSize="1.5rem">Inzicht verkrijgen en rapportage, performance</Heading>
+            <p></p>
             <ResponsiveImage src={startInitiatief} />
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="right">
           <Timeline.Content>
-            <Span fontSize="0.9rem">2 maart 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Kopgroep Signalen</Heading>
-            <p>‘s-Hertogenbosch, Amsterdam, Almere, VNG Realisatie vormen samen de Kopgroep, gefaciliteerd door de Foundation for Public Code met als doel om Signalen bruikbaar te maken voor andere gemeenten.</p>
+            <Span fontSize="0.9rem">Q1 - 2020</Span>
+            <Heading as="h3" fontSize="1.5rem">Oplevering OpenZaak</Heading>
+            <p></p>
             <ResponsiveImage src={connectingTeams} />
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">April 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Kopgroep van start</Heading>
-            <p>De Kopgroep start met het aanpassen van de code in sprints van twee weken.</p>
-            <p>De Signalen-software die in Amsterdam is ontwikkeld bevatte allerlei specifieke Amsterdam variabelen waardoor de Signalen software niet onmiddellijk bruikbaar was voor andere gemeenten en overheden.</p>
+            <Span fontSize="0.9rem">Q2 - 2020</Span>
+            <Heading as="h3" fontSize="1.5rem">Marktconsultatie OpenZaak en workshops</Heading>
+            <p></p>
             <ResponsiveImage src={sprint} />
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="right">
           <Timeline.Content>
-            <Span fontSize="0.9rem">Aug 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Eerste communitydag</Heading>
-            <p>Eerste Signalen Communitydag met de Kopgroep. Ook de gemeenten Den Haag, Utrecht en Haarlem zijn aanwezig als Signalen supporters.</p>
-            <ResponsiveImage src={community} />
-          </Timeline.Content>
-        </Timeline.Container>
-        <Timeline.Container align="left">
-          <Timeline.Content>
-            <Span fontSize="0.9rem">Sept 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Signalen as a Service</Heading>
-            <p>Uitwerken van de gemeentelijke eisen en wensen v.w.b. Beheer en ondersteuning op ‘Signalen-as-a-Service’.</p>
+            <Span fontSize="0.9rem">Q3 2020</Span>
+            <Heading as="h3" fontSize="1.5rem">Vormgeven technische en product stuurgroepen</Heading>
+            <p></p>
             <ResponsiveImage src={saas} />
           </Timeline.Content>
         </Timeline.Container>
-        <Timeline.Container align="right">
-          <Timeline.Content>
-            <Span fontSize="0.9rem">Sept 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Integrale roadmap </Heading>
-            <p>De start richting één integrale functionele roadmap. De roadmap laat zien waar Signalen heen gaat en bevat features die voor iedere gemeente waardevol zijn.</p>
-          </Timeline.Content>
-        </Timeline.Container>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">Q4 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Klaar voor productie</Heading>
-            <p>Oplevering gemeente-neutrale versie Signalen-software. Signalen is klaar voor productie bij de gemeentelijke deelnemers uit de Kopgroep.</p>
+            <Span fontSize="0.9rem">Q4 -2020</Span>
+            <Heading as="h3" fontSize="1.5rem">Roadmap</Heading>
+            <p>De start richting één integrale functionele roadmap. De roadmap laat zien waar OpenZaak heen gaat en bevat features die voor iedere gemeente waardevol zijn.</p>
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">2021</Span>
-            <Heading as="h3" fontSize="1.5rem">Opschalen</Heading>
-            <p>Opschalen van Signalen bij Nederlandse gemeenten.</p>
+            <Heading as="h3" fontSize="1.5rem">Opschalen & doorontwikkelen</Heading>
+            <p>Opschalen van OpenZaak bij Nederlandse gemeenten.</p>
             <ResponsiveImage src={doorontwikkeling} />
           </Timeline.Content>
         </Timeline.Container>
