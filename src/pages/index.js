@@ -124,7 +124,7 @@ const IndexPage = ({ location }) => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q1 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Opelevering OpenZaak</Heading>
+            <Heading as="h3" fontSize="1.5rem">Oplevering OpenZaak</Heading>
             <p>Oplevering productie waardige versie van OpenZaak. OpenZaak is klaar voor productie bij de gemeentelijke deelnemers.</p>
           </Timeline.Content>
         </Timeline.Container>
