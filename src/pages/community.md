@@ -10,7 +10,7 @@ OpenZaak is toegepast op de ontwerpprincipes van [Common Ground](https://www.com
 
 ### Wie is de eigenaar van de OpenZaak?
 
-De OpenZaak-code is openbaar en je kunt niet zozeer spreken over eigendom maar over wie de maintainer is van OpenZaak. OpenZaak is in eerste instantie ontwikkeld door [Maykin Media BV](https://www.maykinmedia.nl/) en in opdracht van de gemeenten uit Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft en een coalitie van Hoorn, Medemblik, Stede Broec, Drechteland, Enkhuizen (SED) onder leiding van [Dimpact](https://www.dimpact.nl/) De [OpenZaak code](https://github.com/open-zaak/) wordt momenteel beheerd door de OpenZaak community en wordt gefaciliteerd door "Code Stewards" van de [Foundatio for Public Code](https://publiccode.net).
+De OpenZaak-code is openbaar en je kunt niet zozeer spreken over eigendom maar over wie de maintainer is van OpenZaak. OpenZaak is in eerste instantie ontwikkeld door [Maykin Media BV](https://www.maykinmedia.nl/) en in opdracht van de gemeenten uit Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft en een coalitie van Hoorn, Medemblik, Stede Broec, Drechteland, Enkhuizen (SED) onder leiding van [Dimpact](https://www.dimpact.nl/) De [OpenZaak code](https://github.com/open-zaak/) wordt momenteel beheerd door de OpenZaak community en wordt gefaciliteerd door "Code Stewards" van de [Foundation for Public Code](https://publiccode.net).
 
 ### Samenwerken aan OpenZaak
 
