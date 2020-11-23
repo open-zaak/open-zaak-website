@@ -20,4 +20,4 @@ This codebase represents a good case of collaboration in between its community o
 
 OpenZaak is an open source codebase, so everyone can submit suggestions to adapt or improve it. Only by working together we are going to be able to improve two key parameters: customer satisfaction and the quality of online services in our municipalities.
 
-Do you want to contribute to OpenZaak? [Read more here](/using-openzaak) and start today!
+Do you want to contribute to OpenZaak? [Read more here](/en/using-openzaak) and start today!
