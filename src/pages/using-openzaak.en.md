@@ -38,6 +38,12 @@ Then you can contribute in the following ways:
 
 * Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
 * Learn [how to contribute](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md)
+* Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Check outstanding [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
+* Create a new [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) using the [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+* Announce your feature request on the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Develop the feature request (see "For developers")
+
 
 More information: [Presentation about OpenZaak](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
 

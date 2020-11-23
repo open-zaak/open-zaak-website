@@ -35,10 +35,10 @@ Enkele nuttige bronnen om u op weg te helpen:
 
 Ben jij verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen uw gemeente en wilt u mee helpen vorm te geven aan de toekomstige ontwikkeling van OpenZaak? Dan kunt u op de volgende manieren bijdragen:
 
-- Abonneer u op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
-- Kijk naar de uitstaande [feature request backlog]().
-- Maak een nieuw [feature request]() aan conform het [feature request template]() wanneer uw eis of wens er niet tussen staat. NB: Vul het volledig in anders kan uw feature request niet in behandeling genomen worden.
-- Kondig je feature request aan op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Abonneer u op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Kijk naar de uitstaande [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
+* Maak een nieuw [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) aan conform het [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+* Kondig je feature request aan op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
 
 Iedere maand komt de OpenZaak product steering groep bij elkaar om alle nieuwe feature requests met elkaar te bespreken en te beslissen welke features verder ontwikkeld worden. Als je feature request in behandeling wordt genomen ben je van harte welkom om in het overleg jouw feature request nader toe te lichten.
 
