@@ -38,7 +38,7 @@ const RoadmapPage = ({ location }) => (
     </Background>
     <Container>
       <Section>
-          Do you have any ideas about the future development of OpenZaak or do you miss certain functionality? Take a look at the <a href="#">feature request backlog</a>.
+          Do you have any ideas about the future development of OpenZaak or do you miss certain functionality? Take a look at the <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
       </Section>
     </Container>
     <Container>
