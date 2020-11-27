@@ -24,7 +24,7 @@ jobs:
           path: ~/.npm
           key: ${{ runner.os }}-build-${{ env.cache-name }}
 
-      - name: Setup Node 12
+      - name: Setup Node 14
         uses: actions/setup-node@v1
         with:
           node-version: 14
