@@ -8,7 +8,10 @@ This site is a collaborative project by the OpenZaak community and is meant to b
 
 This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure you have [Node](https://nodejs.org/en/) installed on your machine. Then install the dependencies with the `npm install` command. After this you can use the `npm start` to start a local webserver and build/update the site.
 
-The `master` branch of this repository is automatically deployed using Netlify.
+The `master` branch of this repository is automatically deployed the Github pages of this repository using Github actions. The workflow for this is configured in `.github/workflows/deploy.yml`. More information on how deploy is implemented refer to the examples given here: https://github.com/enriikke/gatsby-gh-pages-action
+
+Pull request to the `dev` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configure in in `.github/workflows/ci.yml`
+
 
 ## Localization
 This site has basic multilingual support using the gatsby-plugin-i18n.
@@ -35,6 +38,9 @@ contains all the items and translations. To add a new language simply copy anoth
   },
 ```
 The footer part of the website is generated using the values listed in the `menu.json` file.
+
+### IMPORTANT: Internal linking from within markdown files ot other markdown files.
+Markdown files in the `pages` folder are converted to HTML during build time using the `/templates/default.js script`. Note that when you refer from one markdown file to the other always to include a trailing slash or the GraphQL query will fail and result in a failing build.
 
 ### Imported pages do not automatically resolve to language specific versions
 
