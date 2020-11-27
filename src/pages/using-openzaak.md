@@ -42,4 +42,4 @@ Ben jij verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen 
 
 Iedere maand komt de OpenZaak product steering groep bij elkaar om alle nieuwe feature requests met elkaar te bespreken en te beslissen welke features verder ontwikkeld worden. Als je feature request in behandeling wordt genomen ben je van harte welkom om in het overleg jouw feature request nader toe te lichten.
 
-Wil je deelnemen in de product steering group? Of meer weten hoe besluiten in de Signalen community genomen worden neem dan [contact](/contact/) met ons op.
+Wil je deelnemen in de product steering group? Of meer weten hoe besluiten in de Signalen community genomen worden neem dan [contact](/contact) met ons op.
