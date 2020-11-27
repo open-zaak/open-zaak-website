@@ -15,22 +15,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      - name: Cache .npm
-        uses: actions/cache@v1
-        env:
-          cache-name: cache-dot-npm
+      - uses: actions/setup-node@v2-beta
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-build-${{ env.cache-name }}
-
-      - name: Setup Node 14
-        uses: actions/setup-node@v1
-        with:
-          node-version: 14
-
+          node-version: '14'
+          check-latest: true
       - name: Install dependencies
-        run: npm ci
+      - run: npm install
+      - run: npm test
+
+  #    - name: Install dependencies
+  #      run: npm ci
 
       - name: Run build
         run: npm run build
