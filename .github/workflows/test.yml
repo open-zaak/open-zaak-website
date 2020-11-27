@@ -4,7 +4,7 @@ on:
     branches:
       - new-design
   pull_request:
-    
+
 env:
   CI: "true"
 
@@ -30,7 +30,7 @@ jobs:
           node-version: 12
           check-latest: true
       - run: npm install
-      - run: npm test
+
 
 #      - name: Install dependencies
 #        run: npm ci
