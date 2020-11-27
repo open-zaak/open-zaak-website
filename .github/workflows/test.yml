@@ -4,7 +4,7 @@ on:
     branches:
       - new-design
   pull_request:
-
+      - new-design
 env:
   CI: "true"
 
