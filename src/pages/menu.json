@@ -8,7 +8,7 @@
     {
       "title": "OpenZaak gebruiken",
       "link": "/using-openzaak",
-      "partiallyActive": false
+      "partiallyActive": true
     },
     {
       "title": "Roadmap",
@@ -35,7 +35,7 @@
     {
       "title": "Using OpenZaak",
       "link": "/en/using-openzaak",
-      "partiallyActive": false
+      "partiallyActive": true
     },
     {
       "title": "Roadmap",
