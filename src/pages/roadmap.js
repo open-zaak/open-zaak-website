@@ -14,12 +14,12 @@ import Timeline from '../components/Timeline'
 import Span from '../components/Span'
 
 import doorontwikkeling from '../images/doorontwikkeling.svg'
-import community from '../images/community.svg'
+import communityImg from '../images/community.svg'
 import sprint from '../images/sprint.svg'
 import connectingTeams from '../images/connecting-teams.svg'
 import startOntwikkeling from '../images/start-ontwikkeling.svg'
 import startInitiatief from '../images/start-initiatief.svg'
-import saas from '../images/saas.svg'
+
 
 const RoadmapPage = ({ location }) => (
   <Layout>
@@ -80,7 +80,7 @@ const RoadmapPage = ({ location }) => (
             <Span fontSize="0.9rem">Q3 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Vormgeven technische en product stuurgroepen</Heading>
             <p></p>
-            <ResponsiveImage src={saas} />
+            <ResponsiveImage src={communityImg} />
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="left">

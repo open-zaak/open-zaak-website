@@ -11,7 +11,7 @@ Do you want to join the community and use OpenZaak?
 Niels Lindeboom  
 Director Municipal Collaboration  
 Dimpact  
-[niels.lindeboom@dimpact.nl](niels.lindeboom@dimpact.nl)
+[niels.lindeboom@dimpact.nl](mailto:niels.lindeboom@dimpact.nl)
 
 ### Representatives from participating municipalities
 Lazo Bozarov  

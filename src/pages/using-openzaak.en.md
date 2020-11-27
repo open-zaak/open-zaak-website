@@ -29,7 +29,7 @@ If you are developer and are ready to take OpenZaak for a spin and try out it, b
 * [OpenZaak Documentation](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
 * [OpenZaak Github Repo](https://github.com/open-zaak/open-zaak)
 
-If you are interested in offering your services to municipalities or other vendors working with OpenZaak services please take a look at the [community pages](/community). It includes a [list of vendors](/community) delivering OpenZaak services. You can also read more information on how to offer your professional services to municipalities or other vendors.
+If you are interested in offering your services to municipalities or other vendors working with OpenZaak services please take a look at the [community pages](/en/community/). It includes a [list of vendors](/en/community/) delivering OpenZaak services. You can also read more information on how to offer your professional services to municipalities or other vendors.
 
 ## For project and product managers
 
@@ -49,4 +49,4 @@ More information: [Presentation about OpenZaak](https://commonground.nl/file/dow
 
 Every month, the OpenZaak product steering group meets to discuss all new feature requests and decide which features will be further developed. If your feature request is being processed, you are welcome to further explain your feature request in the consultation.
 
-Would you like to participate in the product steering group or would you like to know more about how decisions are made in the OpenZaak community? Please [contact](/en/contact) us.
+Would you like to participate in the product steering group or would you like to know more about how decisions are made in the OpenZaak community? Please [contact](/en/contact/) us.

@@ -10,7 +10,7 @@ Wilt u meer weten over hoe u OpenZaak in uw gemeente kunt gaan gebruiken?
 
 * Bekijk [deze OpenZaak demo video](https://player.vimeo.com/video/389842983?app_id=122963) of [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
 * [Installeer OpenZaak op uw lokale computer of cloud  omgeving](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
-* Neem [contact](/contact)  met ons op voor een (online) demo van OpenZaak.
+* Neem [contact](/contact/)  met ons op voor een (online) demo van OpenZaak.
 
 ## Voor ontwikkelaars
 
@@ -42,4 +42,4 @@ Ben jij verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen 
 
 Iedere maand komt de OpenZaak product steering groep bij elkaar om alle nieuwe feature requests met elkaar te bespreken en te beslissen welke features verder ontwikkeld worden. Als je feature request in behandeling wordt genomen ben je van harte welkom om in het overleg jouw feature request nader toe te lichten.
 
-Wil je deelnemen in de product steering group? Of meer weten hoe besluiten in de Signalen community genomen worden neem dan [contact](/contact) met ons op.
+Wil je deelnemen in de product steering group? Of meer weten hoe besluiten in de Signalen community genomen worden neem dan [contact](/contact/) met ons op.

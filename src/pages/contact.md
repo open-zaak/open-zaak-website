@@ -11,7 +11,7 @@ Samenwerken en OpenZaak gebruiken? Neem dan contact op met:
 Niels Lindeboom <br/>
 Regiseur Gemeetenlijke Samenwerking<br/>
 Dimpact<br/>
-[niels.lindeboom@dimpact.nl](niels.lindeboom@dimpact.nl)
+[niels.lindeboom@dimpact.nl](mailto:niels.lindeboom@dimpact.nl)
 
 ### Vertegenwoordigers van de gemeentelijke deelnemers
 Lazo Bozarov<br/>
