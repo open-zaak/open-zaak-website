@@ -1,9 +1,8 @@
-name: CI
+name: Test
 on:
   push:
     branches:
-      - develop
-      - master
+      - new-design
   pull_request:
 
 env:
