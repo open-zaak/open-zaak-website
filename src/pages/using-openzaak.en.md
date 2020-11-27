@@ -16,7 +16,7 @@ Would you like to know more about how you can start using OpenZaak in your munic
 
 OpenZaak is an open source case register API provisioning backend for municipalites that want to deliver citizen-friendly services online.
 
-OpenZaak implements the national API standards for case-oriented working ([ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken)) developed by Dutch Association of Municipalities [VNG Realisatie](https://www.vngrealisatie.nl/). To optimize OpenZaak as much as possible, it must be connected with other systems or components. Some of the current ones are document management systems or specialized systems to handle permits, as well as the case handling component, MyApp or apps for MOR reports.
+OpenZaak implements the national API standards for case-oriented working ([ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken)) developed by Dutch Association of Municipalities [VNG Realisatie](https://www.vngrealisatie.nl). To optimize OpenZaak as much as possible, it must be connected with other systems or components. Some of the current ones are document management systems or specialized systems to handle permits, as well as the case handling component, MyApp or apps for MOR reports.
 
 OpenZaak consists of backend (storage and retrieval) and API (service) provisioning layer (authorization and authentication) for the national [Zaak Gericht Werken API](https://github.com/VNG-Realisatie/gemma-zaken).
 
@@ -36,12 +36,12 @@ If you are interested in offering your services to municipalities or other vendo
 Are you responsible for managing citizen services and cases within your municipality and would you like to help further shape the future development of OpenZaak?
 Then you can contribute in the following ways:
 
-* Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
 * Learn [how to contribute](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md)
-* Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
 * Check outstanding [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
 * Create a new [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) using the [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-* Announce your feature request on the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
+* Announce your feature request on the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
 * Develop the feature request (see "For developers")
 
 
@@ -49,4 +49,4 @@ More information: [Presentation about OpenZaak](https://commonground.nl/file/dow
 
 Every month, the OpenZaak product steering group meets to discuss all new feature requests and decide which features will be further developed. If your feature request is being processed, you are welcome to further explain your feature request in the consultation.
 
-Would you like to participate in the product steering group or would you like to know more about how decisions are made in the OpenZaak community? Please [contact](/en/contact/) us.
+Would you like to participate in the product steering group or would you like to know more about how decisions are made in the OpenZaak community? Please [contact](/en/contact) us.
