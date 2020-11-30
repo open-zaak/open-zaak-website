@@ -1,37 +1,17 @@
-name: Deploy
+name: Deploy website
 on:
-  push:
-    branches:
-      - development
   pull_request:
-      - development
-
-env:
-  CI: "true"
+    branches:
+      - develop
 
 jobs:
-  test:
-    name: Build environment
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v1
 
-      - name: Cache .npm
-        uses: actions/cache@v1
-        env:
-          cache-name: cache-dot-npm
+      - uses: enriikke/gatsby-gh-pages-action@v2
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-build-${{ env.cache-name }}
-
-      - name: Setup Node 12
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Run deploy
-        run: npm run deploy
+          deploy-branch: master
+#          gatsby-args: --prefix-paths
+          access-token: ${{ secrets.ACCESS_TOKEN }}
