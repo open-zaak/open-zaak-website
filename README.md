@@ -8,9 +8,9 @@ This site is a collaborative project by the OpenZaak community and is meant to b
 
 This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure you have [Node](https://nodejs.org/en/) installed on your machine. Then install the dependencies with the `npm install` command. After this you can use the `npm start` to start a local webserver and build/update the site.
 
-The `master` branch of this repository is automatically deployed the Github pages of this repository using a combination Github actions and a npm deploy script. The workflow for this is configured in `.github/workflows/deploy.yml`.  A deploy script is added to `package.json` with the line ` "deploy": "gatsby build && gh-pages -d public -b master"` . The deploy workflow will set up an environment, run the tests, build the files and run the deploy script. More info about the implementation or additional configuration options refer to https://www.gatsbyjs.com/docs/how-gatsby-works-with-github-pages.
+The website is automatically deployed with pull request on `develop` using a combination Github actions. The workflow for this is configured in `.github/workflows/deploy.yml`.  A deploy script is added to `package.json` with the line ` "deploy": "gatsby build"` . More info about the implementation or additional configuration options refer to https://github.com/marketplace/actions/gatsby-publish.
 
-Pull request to the `development` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configure in in `.github/workflows/ci.yml`
+Pull request to the `develop` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configure in in `.github/workflows/ci.yml`
 
 
 ## Localization
