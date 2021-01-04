@@ -1,0 +1,56 @@
+{
+  "nl": [
+    {
+      "title": "Over OpenZaak",
+      "link": "/#over-openzaak",
+      "partiallyActive": false
+    },
+    {
+      "title": "OpenZaak gebruiken",
+      "link": "/using-openzaak",
+      "partiallyActive": true
+    },
+    {
+      "title": "Roadmap",
+      "link": "/roadmap",
+      "partiallyActive": false
+    },
+    {
+      "title": "Community",
+      "link": "/community",
+      "partiallyActive": true
+    },
+    {
+      "title": "Contact",
+      "link": "/contact",
+      "partiallyActive": true
+    }
+  ],
+  "en": [
+    {
+      "title": "About OpenZaak",
+      "link": "/en/#about-openzaak",
+      "partiallyActive": false
+    },
+    {
+      "title": "Using OpenZaak",
+      "link": "/en/using-openzaak",
+      "partiallyActive": true
+    },
+    {
+      "title": "Roadmap",
+      "link": "/en/roadmap",
+      "partiallyActive": false
+    },
+    {
+      "title": "Community",
+      "link": "/en/community",
+      "partiallyActive": true
+    },
+    {
+      "title": "Contact",
+      "link": "/en/contact",
+      "partiallyActive": true
+    }
+  ]
+}
