@@ -37,7 +37,7 @@ const Logos = () => (
     <a href="https://www.tilburg.nl/" target="_blank" rel="noopener noreferrer"><img src={gemeenteTilburg} height="40" alt="Logo Gemeente Tilburg" /></a>
 
 
-    <a href="https://www.dimpact.nl" target="_blank" rel="noopener noreferrer"><img src={maykin} height="40" alt="Logo Maykin Media B.V." /></a>
+    <a href="https://www.maykinmedia.nl/" target="_blank" rel="noopener noreferrer"><img src={maykin} height="40" alt="Logo Maykin Media B.V." /></a>
     <a href="https://www.opensatisfaction.nl" target="_blank" rel="noopener noreferrer"><img src={opensatisfaction} height="40" alt="Logo Open Satisfaction B.V." /></a>
     <a href="https://exxellence.nl/" target="_blank" rel="noopener noreferrer"><img src={excellence} height="40" alt="Logo excellence" /></a>
     <a href="https://contezza.nl/" target="_blank" rel="noopener noreferrer"><img src={contezza} height="40" alt="Logo contezza" /></a>
