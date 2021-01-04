@@ -1,5 +1,8 @@
 # OpenZaak website
 
+![Test](https://github.com/open-zaak/open-zaak-website/workflows/Test/badge.svg)
+![Deploy website](https://github.com/open-zaak/open-zaak-website/workflows/Deploy%20website/badge.svg)
+
 A website to get potential new users of OpenZaak to get to know it and get them started.
 
 This site is a collaborative project by the OpenZaak community and is meant to be [easy to contribute to](CONTRIBUTING.md).
