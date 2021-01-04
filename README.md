@@ -13,7 +13,7 @@ This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure yo
 
 The website is automatically deployed with pull request on `develop` using a combination Github actions. The workflow for this is configured in `.github/workflows/deploy.yml`.  A deploy script is added to `package.json` with the line ` "deploy": "gatsby build"` . More info about the implementation or additional configuration options refer to https://github.com/marketplace/actions/gatsby-publish.
 
-Pull request to the `develop` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configure in in `.github/workflows/ci.yml`
+Pull request to the `develop` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configured in `.github/workflows/ci.yml`
 
 
 ## Localization
@@ -21,7 +21,7 @@ This site has basic multilingual support using the gatsby-plugin-i18n.
 It is implemented by the guidelines written in this blogpost:
 https://www.gatsbyjs.com/blog/2020-02-19-how-to-build-multilingual-sites-with-gatsby/
 
-You can start your won translation by prefixing the extenstions of files which serve up pages by using the ISO countrie codes. Files which do not include such a prefix will be defaulted to the language as configured in the `gatbsy-config.js` file.
+You can start your won translation by prefixing the extensions of files which serve up pages by using the ISO country codes. Files which do not include such a prefix will be defaulted to the language as configured in the `gatbsy-config.js` file.
 
 ```example:
 index.en.js serves the english equivalent of that page.
@@ -29,7 +29,7 @@ index.en.js serves the english equivalent of that page.
 The plugin makes all the language specific files available under the site-root/<language code> so in the case of english site-root/en/.
 
 ### Navigation menu
-The navigation menu uses a a key-value list to translate the seperate navigation itmems. The `pages/menu.json` file
+The navigation menu uses a a key-value list to translate the separate navigation items. The `pages/menu.json` file
 contains all the items and translations. To add a new language simply copy another language array, insert the language code and make the language specific translations.
 
 ```
