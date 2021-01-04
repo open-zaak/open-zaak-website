@@ -54,7 +54,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={casesImage} alt="Illustratie van persoon met pen" />
+            <ResponsiveImage src={casesImage} alt="Illustration of person with a pen" />
           </Box>
           <Box width={3/5}>
             <h2>Cases, Decisions, Documents and Open Notifications</h2>
@@ -66,7 +66,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Catalogue & municipal selection lists</h2>
+            <h2>Catalog & municipal selection lists</h2>
             <p>OpenZaak includes a management interface for catalogs and municipal selection lists. For example, you can use standard selection lists when implementing your business process and adjust or supplement them where necessary.</p>
           </Box>
           <Box width={2/5}>
@@ -78,7 +78,7 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={authorizationImage} alt="Illustratie van persoon in werkkleding" />
+            <ResponsiveImage src={authorizationImage} alt="Illustraton of person in work clothes" />
           </Box>
           <Box width={3/5}>
             <h2>Authorization & Access management</h2>
@@ -94,7 +94,7 @@ const IndexPage = ({ location }) => (
             <p>OpenZaak includes an API dashboard that provides insight into the use of OpenZaak. This will give you a better insight into the usage of OpenZaak. This can help adjust and prioritize the handling of cases.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={dashboardImage} alt="Illustratie of person with tablet showing graphs" />
+            <ResponsiveImage src={dashboardImage} alt="Illustration of person with tablet showing graphs" />
           </Box>
         </Flex>
       </Section>
@@ -102,11 +102,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
+            <ResponsiveImage src={integrationImage} alt="Illustration of person with tablet showing graphs" />
           </Box>
           <Box width={3/5}>
             <h2>Sytem integrations</h2>
-            <p>Because OpenZaak is open source, suppliers can develop OpenZaak system integrations for their document and content management systems. This gives you the freedom to use existing or new applications in combination with OpenZaak. OpenZaak integrates with Contezza DMS and Alfreso, among others.</p>
+            <p>Because OpenZaak is open source, suppliers can develop OpenZaak system integrations for their document and content management systems. This gives you the freedom to use existing or new applications in combination with OpenZaak. OpenZaak integrates with Contezza DMS and Alfresco, among others.</p>
           </Box>
         </Flex>
       </Section>
@@ -125,7 +125,7 @@ const IndexPage = ({ location }) => (
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Ready for production</Heading>
-            <p>Delivery of a municipal neutral version of the Signalen software. Signalen is ready for production for the municipal participants from the Kopgroep.</p>
+            <p>Delivery of a municipal neutral version of the OpenZaak software. OpenZaak is ready for production for the municipal participants from the Kopgroep.</p>
           </Timeline.Content>
         </Timeline.Container>
       </Timeline>
