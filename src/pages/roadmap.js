@@ -38,7 +38,7 @@ const RoadmapPage = ({ location }) => (
     </Background>
     <Container>
       <Section>
-          Heb je ideeën over de toekomstige ontwikkeling van OpenZaak of mis je bepaalde functionaliteit? Kijk op het <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
+          Heeft u ideeën over de toekomstige ontwikkeling van OpenZaak of mis je bepaalde functionaliteit? Kijk op de <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
       </Section>
     </Container>
     <Container>
