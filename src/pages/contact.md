@@ -9,7 +9,7 @@ Samenwerken en OpenZaak gebruiken? Neem dan contact op met:
 ### Vertegenwoordigers van OpenZaak kerngroep
 
 Niels Lindeboom <br/>
-Regiseur Gemeetenlijke Samenwerking<br/>
+Regiseur Gemeentelijke Samenwerking<br/>
 Dimpact<br/>
 [niels.lindeboom@dimpact.nl](mailto:niels.lindeboom@dimpact.nl)
 
@@ -28,6 +28,11 @@ Tahir Malik<br/>
 Technical Director<br/>
 Contezza<br/>
 [tahir@contezza.nl](mailto:tahir@contezza.nl)
+
+Silvion Moesan<br/>
+Chief Product Officer<br/>
+OPEN.satisfaction<br/>
+[silvion.moesan@open.nl](mailto:silvion.moesan@open.nl)
 
 ### Vertegenwoordiger van VNG Realisatie
 Hugo ter Doest<br/>
