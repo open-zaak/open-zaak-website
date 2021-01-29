@@ -9,7 +9,7 @@ const Payoff = () => (
       <StyledTextContainer>
         <StyledHeading>OpenZaak</StyledHeading>
         <StyledParagraph>Online dienstverlening voor burgers</StyledParagraph>
-        <StyledSubParagraph>OpenZaak maakt het mogelijk voor gemeenten om veilige en betrouwbare online diensten aan te kunnen bieden aan haar inwoners.</StyledSubParagraph>
+        <StyledSubParagraph>OpenZaak maakt het mogelijk voor gemeenten om veilige en betrouwbare online diensten aan te kunnen bieden aan haar inwoners en bedrijven.</StyledSubParagraph>
         <StyledSubParagraph><a href="/#over-openzaak">Lees hier meer over OpenZaak</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>

@@ -42,7 +42,7 @@ const IndexPage = ({ location }) => (
       <Section id="over-openzaak">
         <Flex>
           <Box>
-            <p>OpenZaak is productiewaardig API platform die <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">de nationale standaard voor zaakgericht werken</a> implementeert (de < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). OpenZaak maakt het mogelijk voor gemeenten om veilige en betrouwbare online diensten aan te kunnen bieden aan haar inwoners. Omdat OpenZaak gebruik maakt van de <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">Zaakgerichtwerken standaard</a> wordt het eenvoudiger om veilig data uit te kunnen wisselen met andere gemeenten en/of applicaties. OpenZaak is open source software. Dat betekent dat iedereen vrij is deze software te hergebruiken of aan te passen aan haar wensen.</p>
+            <p>OpenZaak is productiewaardig API platform die <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">dat de API standaard voor zaakgericht werken</a> implementeert (de < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). Met OpenZaak wordt het voor gemeenten mogelijk om veilige en betrouwbare diensten aan te kunnen bieden aan haar inwoners en bedrijven. Omdat OpenZaak gebruik maakt van de <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">Zaakgerichtwerken standaard</a> wordt het uitwisselen van gegevens met andere gemeenten en/of applicaties eenvoudiger en veiliger. OpenZaak is open source software. Dat betekent dat iedereen vrij is deze software te hergebruiken of aan te passen aan haar wensen.</p>
           </Box>
         </Flex>
       </Section>
@@ -58,7 +58,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Zaken, Besluiten, Documenten en Open Notificaties</h2>
-            <p>OpenZaak implementeert alle <a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a> en combineert deze met een gebruiksvriendelijke beheerinterface. Door gebruik te maken van de open notificaties standaard kunnen updates van zaken gepubliceerd worden naar verschillende systemen. Zo is ieder systeem automatisch op de hoogte van status van een zaak.</p>
+            <p>OpenZaak implementeert de <a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a> en combineert deze met een gebruiksvriendelijke beheerinterface. Door gebruik te maken van de Open Notificaties standaard kunnen updates van zaken gepubliceerd worden naar andere systemen, zodat die systemen wijzigingen in (de status van) de zaak kunnen volgen.</p>
           </Box>
         </Flex>
       </Section>
@@ -67,7 +67,7 @@ const IndexPage = ({ location }) => (
         <Flex>
           <Box width={3/5}>
             <h2>Catalogi & gemeentelijke selectielijsten</h2>
-            <p>OpenZaak bevat een beheer interface voor catalogi en gemeentelijke selectielijsten. Zo kunt u gebruiken maken van standaard selectielijsten bij het implementeren van uw proces rondom zaken of deze waar nodig aanpassen of aanvullen.</p>
+            <p>OpenZaak bevat een beheerinterface voor catalogi en gemeentelijke selectielijsten. Zo kunt u gebruiken maken van standaard instellingen voor archivering van zaakgerichte gegevens bij het implementeren van uw proces en waar nodig deze aanpassen of aanvullen.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist" />
@@ -91,7 +91,7 @@ const IndexPage = ({ location }) => (
         <Flex>
           <Box width={3/5}>
             <h2>API Dashboard</h2>
-            <p>OpenZaak bevat een API dashboard die inzicht geeft in het gebruik van OpenZaak. Zo krijgt u beter inzicht met welke frequentie en volume OpenZaak wordt geraadpleegd. Dit kan helpen bij het bijsturen en prioriteren bij het afhandelen van zaken.</p>
+            <p>OpenZaak bevat een API dashboard dat inzicht geeft in het gebruik van OpenZaak. Zo krijgt u inzicht met welke frequentie en volume gegevens in OpenZaak worden geraadpleegd. Dit kan helpen bij het bijsturen en prioriteren bij het afhandelen van zaken.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
@@ -106,7 +106,7 @@ const IndexPage = ({ location }) => (
           </Box>
           <Box width={3/5}>
             <h2>Syteem integraties</h2>
-            <p>Omdat OpenZaak open source is kunnen leveranciers OpenZaak systeem integraties ontwikkelen voor hun document en content management systemen. Zo heeft u de vrijheid om gebruik te maken van bestaande of nieuwe applicaties in combinatie met OpenZaak. OpenZaak koppelt onder andere met Contezza DMS en Alfresco.</p>
+            <p>Omdat OpenZaak open source is kunnen leveranciers systeemintegraties met OpenZaak ontwikkelen voor hun document en content management systemen. Zo heeft u de vrijheid om gebruik te maken van bestaande of nieuwe applicaties in combinatie met OpenZaak. OpenZaak koppelt onder andere met Contezza DMS en Alfresco.</p>
           </Box>
         </Flex>
       </Section>
