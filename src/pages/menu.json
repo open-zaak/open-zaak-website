@@ -1,8 +1,8 @@
 {
   "nl": [
     {
-      "title": "Over OpenZaak",
-      "link": "/#over-openzaak",
+      "title": "Nieuws",
+      "link": "/news/",
       "partiallyActive": false
     },
     {
@@ -28,8 +28,8 @@
   ],
   "en": [
     {
-      "title": "About OpenZaak",
-      "link": "/en/#about-openzaak",
+      "title": "News",
+      "link": "/en/news/",
       "partiallyActive": false
     },
     {
