@@ -15,6 +15,30 @@ The website is automatically deployed with pull request on `develop` using a com
 
 Pull request to the `develop` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configured in `.github/workflows/ci.yml`
 
+## How to add a news article to the website
+You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: MM-DD-YYYY-filename.md
+
+Make sure the document includes the following frontmatter
+
+`---
+path: "/news/02-11-2021-filename/"
+date: "2021-02-11"
+title: "Welkom bij het OpenZaak nieuws"
+lang: nl
+template: default
+`
+Make sure you set the `path` and `lang` parameters. The lang is used to filter out the specific posts for a particular language.
+If you want to provide an English version of your news article make sure you prefix the path with `en` and your filename includes a language local using the following convention: `MM-DD-YYYY-filename.en.md`
+
+Example:
+`---
+path: "/en/news/02-11-2021-filename/"
+date: "2021-02-11"
+title: "Welcome to the OpenZaak news section"
+lang: en
+template: default
+`
+For more information on how multilingual support is implemented refer to the section 'Localization'
 
 ## Localization
 This site has basic multilingual support using the gatsby-plugin-i18n.
