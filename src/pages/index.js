@@ -42,7 +42,7 @@ const IndexPage = ({ location }) => (
       <Section id="over-openzaak">
         <Flex>
           <Box>
-            <p>OpenZaak is productiewaardig API platform die <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">dat de API standaard voor zaakgericht werken</a> implementeert (de < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). Met OpenZaak wordt het voor gemeenten mogelijk om veilige en betrouwbare diensten aan te kunnen bieden aan haar inwoners en bedrijven. Omdat OpenZaak gebruik maakt van de <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">Zaakgerichtwerken standaard</a> wordt het uitwisselen van gegevens met andere gemeenten en/of applicaties eenvoudiger en veiliger. OpenZaak is open source software. Dat betekent dat iedereen vrij is deze software te hergebruiken of aan te passen aan haar wensen.</p>
+            <p>OpenZaak is productiewaardig API platform die <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">de API standaard voor zaakgericht werken</a> implementeert (de < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). Met OpenZaak wordt het voor gemeenten mogelijk om veilige en betrouwbare diensten aan te kunnen bieden aan haar inwoners en bedrijven. Omdat OpenZaak gebruik maakt van de <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">Zaakgerichtwerken standaard</a> wordt het uitwisselen van gegevens met andere gemeenten en/of applicaties eenvoudiger en veiliger. OpenZaak is open source software. Dat betekent dat iedereen vrij is deze software te hergebruiken of aan te passen aan haar wensen.</p>
           </Box>
         </Flex>
       </Section>
