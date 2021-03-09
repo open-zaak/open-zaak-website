@@ -7,7 +7,7 @@ A website to get potential new users of OpenZaak to get to know it and get them 
 
 This site is a collaborative project by the OpenZaak community and is meant to be [easy to contribute to](CONTRIBUTING.md).
 
-The website code is a fork of the [Signalen website repository](https://github.com/Signalen/signalen.org), built by the authors and contributors](AUTHORS.md) within the Signalen community.
+The website code is a fork of the [Signalen website repository](https://github.com/Signalen/signalen.org), built by the [authors and contributors](AUTHORS.md) within the Signalen community.
 
 ## Building, testing and deploying
 
