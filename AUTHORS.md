@@ -1,7 +1,7 @@
 # Authors
 
-* Bart Jeukendrup (@bartjkdp)
-* Boris Arkenaar (@boris-arkenaar)
+* Bart Jeukendrup ([@bartjkdp](https://github.com/bartjkdp))
+* Boris Arkenaar ([@boris-arkenaar](https://github.com/boris-arkenaar))
 * Jacco Brouwer
 
 [The Foundation for Public Code](https://publiccode.net)
