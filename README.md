@@ -7,6 +7,8 @@ A website to get potential new users of OpenZaak to get to know it and get them 
 
 This site is a collaborative project by the OpenZaak community and is meant to be [easy to contribute to](CONTRIBUTING.md).
 
+The website code is a fork of the [Signalen website repository](https://github.com/Signalen/signalen.org), built by the authors and contributors](AUTHORS.md) within the Signalen community.
+
 ## Building, testing and deploying
 
 This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure you have [Node](https://nodejs.org/en/) installed on your machine. Then install the dependencies with the `npm install` command. After this you can use the `npm start` to start a local webserver and build/update the site.
@@ -90,6 +92,6 @@ https://www.gatsbyjs.com/blog/2020-02-19-how-to-build-multilingual-sites-with-ga
 
 ## License
 
-Copyright © the OpenZaak contributors.
+© [The authors and contributors](AUTHORS.md)
 
 Licensed under [EUPLv1.2](LICENSE.md).
