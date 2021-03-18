@@ -29,7 +29,7 @@ Enkele nuttige bronnen om u op weg te helpen:
 * [Instructie op OpenZaak op uw locale computer of Kubernetes te installeren](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * [OpenZaak documentatie](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
 * [OpenZaak Github repository](https://github.com/open-zaak/open-zaak)
-* [Meld u aan voor kennisgevingen van vroege uitgave](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
+* [Meld u aan om vooraankondigingen van nieuwe software releases te ontvangen.](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
 
 ## Voor project- en product managers
 
