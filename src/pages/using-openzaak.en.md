@@ -28,6 +28,7 @@ If you are developer and are ready to take OpenZaak for a spin and try out it, b
 * [Get OpenZaak running on your machine or on Kubernetes](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * [OpenZaak Documentation](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
 * [OpenZaak Github Repo](https://github.com/open-zaak/open-zaak)
+* [Sign up for early release notices](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
 
 If you are interested in offering your services to municipalities or other vendors working with OpenZaak services please take a look at the [community pages](/en/community/). It includes a [list of vendors](/en/community/) delivering OpenZaak services. You can also read more information on how to offer your professional services to municipalities or other vendors.
 
