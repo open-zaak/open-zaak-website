@@ -10,7 +10,7 @@ template: default
 
 Enkele weken geleden was OpenZaak te zien in de livecast serie ['Let's talk about Public Code'](https://podcast.publiccode.net/) van de [Foundation for Public Code](publiccode.net). Het doel van deze show is om ervaringen te delen van codebases die werken met Public Code vanuit verschillende partijen, (ontwikkelaars, verkopers, ambtenaren, managers, etc.).
 
-De aflevering gewijd aan OpenZaak was gericht op het perspectief van de ontwikkelaars met betrekking tot een **kwetsbaarheid** die werd ontdekt en opgelost binnen de gemeenschap en welke lessen daaruit werden getrokken. 
+De aflevering gewijd aan OpenZaak was gericht op het perspectief van de ontwikkelaars met betrekking tot een [kwetsbaarheid](https://github.com/publiccodenet/projects/issues/20) die werd ontdekt en opgelost binnen de gemeenschap en welke lessen daaruit werden getrokken.
 
 Het interview met [Sergei Maertens](https://github.com/sergei-maertens), technical lead bij [Maykin Media](https://github.com/maykinmedia) en [Tjerk Vaags](https://github.com/TjerkVaags), ontwikkelaar bij [Contezza](https://contezza.nl/), is beschikbaar in verschillende formaten:
 
