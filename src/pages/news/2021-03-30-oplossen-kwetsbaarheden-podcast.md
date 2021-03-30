@@ -17,4 +17,4 @@ Het interview met [Sergei Maertens](https://github.com/sergei-maertens), technic
 - Bekijk het op [Youtube](https://www.youtube.com/watch?v=1xojrumKgfA)
 - [Periscope](https://www.pscp.tv/w/1gqxvoRWjgwKB)
 - [Facebook](https://www.facebook.com/publiccodenet/videos/321846445885858/)
-- Of je kunt het beluisteren [podcast formaat](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/).
+- Of je kunt het beluisteren in [podcast formaat](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/).
