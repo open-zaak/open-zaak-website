@@ -17,4 +17,4 @@ The interview with [Sergei Maertens](https://github.com/sergei-maertens), techni
 - Watch it on [Youtube](https://www.youtube.com/watch?v=1xojrumKgfA)
 - [Periscope](https://www.pscp.tv/w/1gqxvoRWjgwKB)
 - [Facebook](https://www.facebook.com/publiccodenet/videos/321846445885858/)
-- Or you can just do the old school thing and listen it in [podcast format](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/).
+- Or you can listen to it in audio [podcast format](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/).
