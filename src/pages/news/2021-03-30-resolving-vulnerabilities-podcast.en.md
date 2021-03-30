@@ -8,7 +8,7 @@ template: default
 
 ## Podcast interview: resolving vulnerabilities in OpenZaak
 
-Several weeks ago, OpenZaak was featured in the livecast series ['Let's talk about Public Code'](https://podcast.publiccode.net/) from the [Foundation for Public Code](publiccode.net). The purpose of this show is to share stories of codebases that are working with Public Code from different viewpoints, (developers, vendors, civil servants, managers, etc.).
+Several weeks ago, OpenZaak was featured in the livecast series ['Let's talk about Public Code'](https://podcast.publiccode.net/) from the [Foundation for Public Code](https://publiccode.net). The purpose of this show is to share stories of codebases that are working with Public Code from different viewpoints, (developers, vendors, civil servants, managers, etc.).
 
 The episode dedicated to OpenZaak was focused on the developers point of view regarding a [vulnerability](https://github.com/publiccodenet/projects/issues/20) that was discovered, and resolved within the community and what learnings were taken from it. 
 
