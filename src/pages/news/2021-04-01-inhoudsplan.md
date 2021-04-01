@@ -8,14 +8,14 @@ template: default
 
 # Suggestie voor een inhoudsplan voor OpenZaak.org
 
-## February 2021
+## Februari 2021
 
 ### Week 2
 
 - [x] (EN) Welcome to the OpenZaak news section (Feb 11) - [LINK](https://openzaak.org/en/news/2021-02-11-welcome/)
 - [x] (NL) Welkom op de OpenZaak nieuws sectie (Feb 11) - [LINK](https://openzaak.org/news/2021-02-11-welkom/)
 
-## March 2021
+## Maart 2021
 
 ### Week 4
 
@@ -39,7 +39,7 @@ template: default
  - [ ]  (EN) Interview with OpenForum Europe
  - [ ]  (NL) Interview met OpenForum Europe
  
- ## May 2021
+ ## Mei 2021
  
  ### Week 2
  
