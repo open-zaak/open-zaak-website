@@ -4,7 +4,7 @@ template: "default"
 
 ## OpenZaak Community
 
-OpenZaak is toegepast op de ontwerpprincipes van [Common Ground](https://www.commonground.nl), waardoor het snel, gemakkelijk en veilig geïmplementeerd kan worden door gemeenten in Nederland. OpenZaak is geoptimaliseerd voor de HHaven referentie-implementatie](https://haven.commonground.nl), de standaard cloud-agnostische infrastructuur die wordt gebruikt voor alle Common Ground-initiatieven.
+OpenZaak is toegepast op de ontwerpprincipes van [Common Ground](https://www.commonground.nl), waardoor het snel, gemakkelijk en veilig geïmplementeerd kan worden door gemeenten in Nederland. OpenZaak is geoptimaliseerd voor de [Haven referentie-implementatie](https://haven.commonground.nl), de standaard cloud-agnostische infrastructuur die wordt gebruikt voor alle Common Ground-initiatieven.
 
 [Common Ground](https://www.commonground.nl) staat voor een nieuwe, moderne, gezamenlijke informatievoorziening voor gemeenten. Data wordt gescheiden van werkprocessen en applicaties, en data wordt bij de bron ontsloten. In essentie is het uitgangspunt van Common Ground: een ingrijpende hervorming van de informatievoorziening, die vraagt ​​om een ​​nieuwe manier van samenwerken tussen gemeente en markt.
 
