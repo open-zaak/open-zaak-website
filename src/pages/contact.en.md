@@ -34,6 +34,14 @@ Hugo ter Doest
 Product owner APIs for business-oriented work, VNG Realisatie  
 [hugo.terdoest@dimpact.nl](mailto:hugo.terdoest@dimpact.nl)
 
-### Get in touch with The OpenZaak Community
+## Get in touch with The OpenZaak Community
 
 Would you like to discuss and participate in decisions about the further development of OpenZaak? Suscribe to the [OpenZaak mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/).
+
+### Monthly Technical Steering call
+
+Every month contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. You are welcome to join this meeting by sending a request to openzaak-discuss@lists.publiccode.net. Make sure you first [join the OpenZaak mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/) prior to sending a message.
+
+### Monthly Product Steering call
+
+Every month contributing members of our community conduct a product steering meeting to discuss new features or user issues.  You are welcome to join this meeting by sending a request to openzaak-discuss@lists.publiccode.net. Make sure you first [join the OpenZaak mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/) prior to sending a message.
