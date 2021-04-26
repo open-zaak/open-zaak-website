@@ -1,5 +1,5 @@
 ---
-path: "/en/news/2021-04-26-OSOR-interview.en.md"
+path: "/en/news/2021-04-26-OSOR-interview.en"
 date: "2021-02-11"
 title: "OpenZaak featured in the European Open Source Observatory (OSOR)"
 lang: en
