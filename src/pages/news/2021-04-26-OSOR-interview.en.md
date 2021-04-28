@@ -8,7 +8,7 @@ template: default
 
 # OpenZaak featured in the European Open Source Observatory (OSOR)
 
-The European portal [OSOR](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), Open Source Observatory, published on April 7th an interview with Lazo Bozarov, Senior Supply Manager Digital Services at Utrecht Municipality about OpenZaak.
+The European portal [OSOR](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), Open Source Observatory, published an interview with Lazo Bozarov, Senior Supply Manager Digital Services at Utrecht Municipality about OpenZaak on April 7th.
 
 In this text, Bozarov comments on the advantages that working in open source provides once the new [Dutch API (Application Programmable Interface) standard for case-management](https://www.vngrealisatie.nl/nieuws/api-standaarden-zaakgericht-werken-vanaf-1-april) has been implemented.
 
