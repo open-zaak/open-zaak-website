@@ -136,7 +136,7 @@ At the same time, we verified the Docker Image checksums of the Open Zaak releas
 On April 16th, we verified the Open Notificaties checksums, and checked which other
 projects could potentially be impacted. We also drafted this news article.
 
-On April ??th, the news article was published and announced on various communication
+On May 7th and the following days, the news article was published and announced on various communication
 channels.
 
 ### Questions
