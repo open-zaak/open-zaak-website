@@ -14,9 +14,9 @@ that everything is as expected.
 
 Unless you are using the `latest` image tag of Open Zaak
 or Open Notificaties Docker Hub images, **no action is required**. If you _do_ use the `latest` 
-tag in any of those images, our advise is to pull these images again. There is no indication 
-that they have been compromised, but we cannot
-guarantee this because of the nature of how Docker Hub operates.
+tag in any of those images, _and_ those images are old enough to no longer have build logs, then 
+our advice is to pull these images again. There is no indication that they have been compromised, 
+but we cannot guarantee this because of the nature of how Docker Hub operates.
 
 Below, you can find a detailed breakdown of the security incident at Codecov, how it
 possibly impacted Open Zaak projects and how we verified that we were not impacted by
