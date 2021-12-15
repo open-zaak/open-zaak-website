@@ -8,6 +8,8 @@ OpenZaak is toegepast op de ontwerpprincipes van [Common Ground](https://www.com
 
 [Common Ground](https://www.commonground.nl) staat voor een nieuwe, moderne, gezamenlijke informatievoorziening voor gemeenten. Data wordt gescheiden van werkprocessen en applicaties, en data wordt bij de bron ontsloten. In essentie is het uitgangspunt van Common Ground: een ingrijpende hervorming van de informatievoorziening, die vraagt ​​om een ​​nieuwe manier van samenwerken tussen gemeente en markt.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_5ziu2gADmCnEhBPf2KXXjGqaAdI3epJ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Wie is de eigenaar van de OpenZaak?
 
 De OpenZaak-code is openbaar en er is niet zozeer een eigenaar van OpenZaak, maar wel een maintainer. OpenZaak is in eerste instantie ontwikkeld door [Maykin Media BV](https://www.maykinmedia.nl), in opdracht van een aantal gemeenten onder leiding van [Dimpact](https://www.dimpact.nl). De gemeenten zijn: Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft en een coalitie van Hoorn, Medemblik, Stede Broec, Drechterland, Enkhuizen (SED). [De OpenZaak code](https://github.com/open-zaak) wordt momenteel beheerd door de OpenZaak community en wordt gefaciliteerd door "Codebase Stewards" van de [Foundation for Public Code](https://publiccode.net).
