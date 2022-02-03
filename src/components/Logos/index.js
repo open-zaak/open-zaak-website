@@ -11,7 +11,7 @@ import gemeenteDenBosch from './images/gemeente-den-bosch.png'
 import gemeenteHaarlem from './images/gemeente-haarlem.png'
 import gemeenteRotterdam from './images/gemeente-rotterdam.png'
 import gemeenteTilburg from './images/gemeente-tilburg.png'
-import gemeenteSúdwestFryslân from './images/gemeente-súdwest-fryslân.png'
+import gemeenteSudwestFryslan from './images/gemeente-sudwest-fryslan.png'
 
 import vng from './images/vng.png'
 import dimpact from './images/dimpact.png'
@@ -36,7 +36,7 @@ const Logos = () => (
     <a href="https://www.haarlem.nl/" target="_blank" rel="noopener noreferrer"><img src={gemeenteHaarlem} height="40" alt="Logo Gemeente Haarlem" /></a>
     <a href="https://www.rotterdam.nl/" target="_blank" rel="noopener noreferrer"><img src={gemeenteRotterdam} height="40" alt="Logo Gemeente Rotterdam" /></a>
     <a href="https://www.tilburg.nl/" target="_blank" rel="noopener noreferrer"><img src={gemeenteTilburg} height="40" alt="Logo Gemeente Tilburg" /></a>
-	<a href="https://sudwestfryslan.nl/" target="_blank" rel="noopener noreferrer"><img src={gemeenteSúdwestFryslân} height="40" alt="Logo Gemeente Súdwest-Fryslân" /></a>
+	<a href="https://sudwestfryslan.nl/" target="_blank" rel="noopener noreferrer"><img src={gemeenteSudwestFryslan} height="40" alt="Logo Gemeente Súdwest-Fryslân" /></a>
 
 
     <a href="https://www.maykinmedia.nl/" target="_blank" rel="noopener noreferrer"><img src={maykin} height="40" alt="Logo Maykin Media B.V." /></a>
