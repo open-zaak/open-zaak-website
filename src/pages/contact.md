@@ -46,8 +46,3 @@ Wil je discussiëren en mee beslissen over de verdere ontwikkeling van OpenZaak?
 ### Maandelijkse Technical Steering call
 
 Elke maand houden ontwikkelaars van onze community een technische stuurbijeenkomst om technische problemen of nieuwe technische ontwikkelingen te bespreken. Je bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar openzaak-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de OpenZaak mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
-
-
-### Maandelijkse Product Steering call
-
-Elke maand houden product owners van onze community een productstuurvergadering om nieuwe functies of gebruikersproblemen te bespreken. U bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar openzaak-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de OpenZaak mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/
