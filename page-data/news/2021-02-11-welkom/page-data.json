@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-default-js",
+    "path": "/news/2021-02-11-welkom/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Welkom op de OpenZaak nieuws sectie"},"html":"<h2>Welkom op de OpenZaak nieuws sectie</h2>\n<p>Er zijn veel ontwikkelingen rondom OpenZaak. Daarom is het soms lastig om op de hoogte te blijven van alle ontwikkelingen.\nMet deze nieuwe sectie op de website willen we de OpenZaak community voorzien van het laatste nieuws rondom OpenZaak.</p>"}},"pageContext":{}},
+    "staticQueryHashes": ["1641515924","3169995980","63159454"]}

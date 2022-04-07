@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-default-js",
+    "path": "/en/news/2021-04-26-OSOR-interview/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"OpenZaak featured in the European Open Source Observatory (OSOR)"},"html":"<h1>OpenZaak featured in the European Open Source Observatory (OSOR)</h1>\n<p>The European portal <a href=\"https://joinup.ec.europa.eu/collection/open-source-observatory-osor\">OSOR</a>, Open Source Observatory, published an interview with Lazo Bozarov, Senior Supply Manager Digital Services at Utrecht Municipality about OpenZaak on April 7th.</p>\n<p>In this text, Bozarov comments on the advantages that working in open source provides once the new <a href=\"https://www.vngrealisatie.nl/nieuws/api-standaarden-zaakgericht-werken-vanaf-1-april\">Dutch API (Application Programmable Interface) standard for case management</a> has been implemented.</p>\n<p><a href=\"https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market\">Read the interview on Joinup</a>.</p>"}},"pageContext":{}},
+    "staticQueryHashes": ["1641515924","3169995980","63159454"]}

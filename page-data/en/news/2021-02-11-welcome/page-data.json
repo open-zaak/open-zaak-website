@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-default-js",
+    "path": "/en/news/2021-02-11-welcome/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Welcome to the OpenZaak news section"},"html":"<h2>Welcome to the OpenZaak news section</h2>\n<p>OpenZaak sees a lot of development, which means that it is sometimes difficult to keep up to date on all that is happening.</p>"}},"pageContext":{}},
+    "staticQueryHashes": ["1641515924","3169995980","63159454"]}
