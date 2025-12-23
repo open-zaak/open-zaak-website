@@ -14,7 +14,7 @@ Wilt u meer weten over hoe u OpenZaak in uw gemeente kunt gaan gebruiken?
 
 ## Voor ontwikkelaars
 
-OpenZaak is een open source API provisioning backend.
+OpenZaak is een open source ZGW API backend.
 
 OpenZaak implementeert de landelijke API-standaarden voor zaakgericht werken ([ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken)) ontwikkeld in opdracht van de Nederlandse Vereniging van Gemeenten ([VNG Realisatie](https://www.vngrealisatie.nl)).
 
