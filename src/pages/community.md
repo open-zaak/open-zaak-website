@@ -8,7 +8,11 @@ OpenZaak is toegepast op de ontwerpprincipes van [Common Ground](https://www.com
 
 [Common Ground](https://www.commonground.nl) staat voor een nieuwe, moderne, gezamenlijke informatievoorziening voor gemeenten. Data wordt gescheiden van werkprocessen en applicaties, en data wordt bij de bron ontsloten. In essentie is het uitgangspunt van Common Ground: een ingrijpende hervorming van de informatievoorziening, die vraagt ​​om een ​​nieuwe manier van samenwerken tussen gemeente en markt.
 
+<!--
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_5ziu2gADmCnEhBPf2KXXjGqaAdI3epJ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-->
 
 ### Wie is de eigenaar van de OpenZaak?
 
