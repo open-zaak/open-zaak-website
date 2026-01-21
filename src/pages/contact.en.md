@@ -13,21 +13,17 @@ Director Municipal Collaboration
 Dimpact
 [niels.lindeboom@dimpact.nl](mailto:niels.lindeboom@dimpact.nl)
 
-### Representatives from participating municipalities
-Lazo Bozarov
-Senior Supply Manager Digital Service
-Municipality of Utrecht
-[l.bozarov@utrecht.nl](mailto:l.bozarov@utrecht.nl)
-
 ### Representatives of OpenZaak vendors
 Joeri Bekker
 Founder Maykin Media BV
 [joeri.bekker@maykinmedia.nl](mailto:joeri.bekker@maykinmedia.nl)
 
+<!--
 ### Representative of VNG Realisatie (Dutch Association of Municipalities)
 Hugo ter Doest
 Product owner APIs for business-oriented work, VNG Realisatie
 [hugo.terdoest@dimpact.nl](mailto:hugo.terdoest@dimpact.nl)
+-->
 
 <!--
 ## Get in touch with The OpenZaak Community
