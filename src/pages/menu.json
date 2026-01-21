@@ -37,11 +37,13 @@
       "link": "/en/using-openzaak",
       "partiallyActive": true
     },
+ /*
     {
       "title": "Roadmap",
       "link": "/en/roadmap",
       "partiallyActive": false
     },
+ */
     {
       "title": "Community",
       "link": "/en/community",
