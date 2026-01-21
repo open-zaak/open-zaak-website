@@ -46,11 +46,11 @@ const IndexPage = ({ location }) => (
           </Box>
         </Flex>
       </Section>
-
+/*
       <Section textAlign="center">
         <iframe title="Demo usage OpenZaak" src="https://player.vimeo.com/video/389842983" width="640" height="360" frameborder="0" allowfullscreen></iframe>
       </Section>
-
+*/
       <Section>
         <Flex>
           <Box width={2/5}>
@@ -112,6 +112,7 @@ const IndexPage = ({ location }) => (
       </Section>
 
     </Container>
+/*
     <Background backgroundColor="#f5f5f6">
       <Container>
         <Section>
@@ -130,6 +131,7 @@ const IndexPage = ({ location }) => (
         </Timeline.Container>
       </Timeline>
     </Container>
+*/
     <Footer location={location} />
   </Layout>
 )
