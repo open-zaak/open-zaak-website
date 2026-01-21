@@ -37,10 +37,12 @@ Bent u verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen u
 
 Dan kunt u op de volgende manieren bijdragen:
 
+<!--
 * Abonneer u op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
+-->
+
 * Kijk naar de uitstaande [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
 * Maak een nieuw [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) aan conform het [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-* Kondig je feature request aan op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
 
 Iedere maand komt de OpenZaak product steering groep bij elkaar om nieuwe feature requests te bespreken en te beslissen welke features verder ontwikkeld worden. Als uw feature request wordt behandeld genomen bent u van harte uitgenodigd om uw feature request nader toe te lichten.
 
