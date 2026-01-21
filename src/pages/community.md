@@ -12,11 +12,11 @@ OpenZaak is toegepast op de ontwerpprincipes van [Common Ground](https://www.com
 
 ### Wie is de eigenaar van de OpenZaak?
 
-De OpenZaak-code is openbaar en er is niet zozeer een eigenaar van OpenZaak, maar wel een maintainer. OpenZaak is in eerste instantie ontwikkeld door [Maykin Media BV](https://www.maykinmedia.nl), in opdracht van een aantal gemeenten onder leiding van [Dimpact](https://www.dimpact.nl). De gemeenten zijn: Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft en een coalitie van Hoorn, Medemblik, Stede Broec, Drechterland, Enkhuizen (SED). [De OpenZaak code](https://github.com/open-zaak) wordt momenteel beheerd door de OpenZaak community en wordt gefaciliteerd door "Codebase Stewards" van de [Foundation for Public Code](https://publiccode.net).
+De OpenZaak-code is openbaar en er is niet zozeer een eigenaar van OpenZaak, maar wel een maintainer. OpenZaak is in eerste instantie ontwikkeld door [Maykin Media BV](https://www.maykinmedia.nl), in opdracht van een aantal gemeenten onder leiding van [Dimpact](https://www.dimpact.nl). De gemeenten zijn: Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, 's-Hertogenbosch, Delft en een coalitie van Hoorn, Medemblik, Stede Broec, Drechterland, Enkhuizen (SED). [De OpenZaak code](https://github.com/open-zaak) wordt momenteel beheerd door de OpenZaak community. Het werdt gefaciliteerd door "Codebase Stewards" van de [Foundation for Public Code](https://publiccode.net).
 
 ### Samenwerken aan OpenZaak
 
-In samenwerking met Dimpact, de OpenZaak community en gefaciliteerd door de Foundation for Public Code, is OpenZaak toegankelijk gemaakt voor iedere gemeente in Nederland.
+In samenwerking met Dimpact en de OpenZaak community is OpenZaak toegankelijk gemaakt voor iedere gemeente in Nederland.
 
 In overeenstemming met de principes van open source kan iedereen suggesties doen voor aanpassing of verbetering van de software; samen OpenZaak gebruiken en samen OpenZaak verbeteren. Op deze manier werken we samen aan het verbeteren van de informatiehuishouding, de kwaliteit van de online dienstverlening en de klanttevredenheid in onze gemeenten.
 
