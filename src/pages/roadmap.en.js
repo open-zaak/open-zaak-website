@@ -41,6 +41,8 @@ const RoadmapPage = ({ location }) => (
           Do you have any ideas about the future development of OpenZaak or do you miss certain functionality? Take a look at the <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
       </Section>
     </Container>
+ 
+ /*
     <Container>
       <Timeline>
       <Timeline.Container align="right">
@@ -100,6 +102,8 @@ const RoadmapPage = ({ location }) => (
         </Timeline.Container>
       </Timeline>
     </Container>
+*/
+
     <Footer />
   </Layout>
 )
