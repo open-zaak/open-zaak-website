@@ -8,7 +8,7 @@ OpenZaak is sinds begin 2020 beschikbaar voor gemeenten en ontwikkelaars in Nede
 
 Wilt u meer weten over hoe u OpenZaak in uw gemeente kunt gaan gebruiken?
 
-* Bekijk [deze OpenZaak demo video](https://player.vimeo.com/video/389842983?app_id=122963) of [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
+* Bekijk de [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
 * [Installeer OpenZaak op uw lokale computer of cloud  omgeving](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * Neem [contact](/contact/)  met ons op voor een (online) demo van OpenZaak.
 

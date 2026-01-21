@@ -8,7 +8,7 @@ Since the beginning of 2020, OpenZaak is available for municipalities and develo
 
 Would you like to know more about how you can start using OpenZaak in your municipality?
 
-* Check [this video](https://player.vimeo.com/video/389842983?app_id=122963) out and this [OpenZaak presentation](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf) (Both in Dutch).
+* Check out this [OpenZaak presentation](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf) (Both in Dutch).
 * [Install OpenZaak on your local machine](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * [Get in touch](/contact/) for an (online) demo of OpenZaak.
 
