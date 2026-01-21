@@ -24,11 +24,6 @@ Joeri Bekker
 Founder Maykin Media BV
 [joeri.bekker@maykinmedia.nl](mailto:joeri.bekker@maykinmedia.nl)
 
-Tahir Malik
-Technical Director
-Contezza
-[tahir@contezza.nl](mailto:tahir@contezza.nl)
-
 ### Representative of VNG Realisatie (Dutch Association of Municipalities)
 Hugo ter Doest
 Product owner APIs for business-oriented work, VNG Realisatie

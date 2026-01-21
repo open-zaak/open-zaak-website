@@ -24,16 +24,6 @@ Joeri Bekker<br/>
 Founder Maykin Media BV<br/>
 [joeri.bekker@maykinmedia.nl](mailto:joeri.bekker@maykinmedia.nl)
 
-Tahir Malik<br/>
-Technical Director<br/>
-Contezza<br/>
-[tahir@contezza.nl](mailto:tahir@contezza.nl)
-
-Silvion Moesan<br/>
-Chief Product Officer<br/>
-OPEN.satisfaction<br/>
-[silvion.moesan@open.nl](mailto:silvion.moesan@open.nl)
-
 ### Vertegenwoordiger van VNG Realisatie
 Hugo ter Doest<br/>
 Product owner API's voor zaakgericht werken, VNG Realisatie<br/>
