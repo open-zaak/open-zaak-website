@@ -38,9 +38,11 @@ const RoadmapPage = ({ location }) => (
     </Background>
     <Container>
       <Section>
-          Heeft u ideeën over de toekomstige ontwikkeling van OpenZaak of mis je bepaalde functionaliteit? Kijk op de <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
+          Heeft u ideeën over de toekomstige ontwikkeling van OpenZaak of mis je bepaalde functionaliteit? Kijk op de <a href="https://github.com/open-zaak/open-zaak/issues">issue tracker</a>.
       </Section>
     </Container>
+
+/*
     <Container>
       <Timeline>
       <Timeline.Container align="right">
@@ -100,6 +102,8 @@ const RoadmapPage = ({ location }) => (
         </Timeline.Container>
       </Timeline>
     </Container>
+*/
+
     <Footer />
   </Layout>
 )

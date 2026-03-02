@@ -1,19 +1,9 @@
 {
   "nl": [
     {
-      "title": "Nieuws",
-      "link": "/news/",
-      "partiallyActive": false
-    },
-    {
       "title": "OpenZaak gebruiken",
       "link": "/using-openzaak",
       "partiallyActive": true
-    },
-    {
-      "title": "Roadmap",
-      "link": "/roadmap",
-      "partiallyActive": false
     },
     {
       "title": "Community",
@@ -28,19 +18,9 @@
   ],
   "en": [
     {
-      "title": "News",
-      "link": "/en/news/",
-      "partiallyActive": false
-    },
-    {
       "title": "Using OpenZaak",
       "link": "/en/using-openzaak",
       "partiallyActive": true
-    },
-    {
-      "title": "Roadmap",
-      "link": "/en/roadmap",
-      "partiallyActive": false
     },
     {
       "title": "Community",

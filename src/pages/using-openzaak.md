@@ -8,7 +8,7 @@ OpenZaak is sinds begin 2020 beschikbaar voor gemeenten en ontwikkelaars in Nede
 
 Wilt u meer weten over hoe u OpenZaak in uw gemeente kunt gaan gebruiken?
 
-* Bekijk [deze OpenZaak demo video](https://player.vimeo.com/video/389842983?app_id=122963) of [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
+* Bekijk de [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
 * [Installeer OpenZaak op uw lokale computer of cloud  omgeving](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * Neem [contact](/contact/)  met ons op voor een (online) demo van OpenZaak.
 
@@ -29,7 +29,10 @@ Enkele nuttige bronnen om u op weg te helpen:
 * [Instructie op OpenZaak op uw locale computer of Kubernetes te installeren](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * [OpenZaak documentatie](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
 * [OpenZaak Github repository](https://github.com/open-zaak/open-zaak)
+
+<!--
 * [Meld u aan om vooraankondigingen van nieuwe software releases te ontvangen.](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
+-->
 
 ## Voor project- en product managers
 
@@ -37,10 +40,12 @@ Bent u verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen u
 
 Dan kunt u op de volgende manieren bijdragen:
 
+<!--
 * Abonneer u op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
+-->
+
 * Kijk naar de uitstaande [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
 * Maak een nieuw [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) aan conform het [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-* Kondig je feature request aan op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
 
 Iedere maand komt de OpenZaak product steering groep bij elkaar om nieuwe feature requests te bespreken en te beslissen welke features verder ontwikkeld worden. Als uw feature request wordt behandeld genomen bent u van harte uitgenodigd om uw feature request nader toe te lichten.
 

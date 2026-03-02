@@ -8,7 +8,7 @@ Since the beginning of 2020, OpenZaak is available for municipalities and develo
 
 Would you like to know more about how you can start using OpenZaak in your municipality?
 
-* Check [this video](https://player.vimeo.com/video/389842983?app_id=122963) out and this [OpenZaak presentation](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf) (Both in Dutch).
+* Check out this [OpenZaak presentation](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf) (Both in Dutch).
 * [Install OpenZaak on your local machine](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * [Get in touch](/contact/) for an (online) demo of OpenZaak.
 
@@ -28,7 +28,10 @@ If you are developer and are ready to take OpenZaak for a spin and try out it, b
 * [Get OpenZaak running on your machine or on Kubernetes](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
 * [OpenZaak Documentation](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
 * [OpenZaak Github Repo](https://github.com/open-zaak/open-zaak)
+
+<!--
 * [Sign up for early release notices](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
+-->
 
 If you are interested in offering your services to municipalities or other vendors working with OpenZaak services please take a look at the [community pages](/en/community/). It includes a [list of vendors](/en/community/) delivering OpenZaak services. You can also read more information on how to offer your professional services to municipalities or other vendors.
 
@@ -37,12 +40,14 @@ If you are interested in offering your services to municipalities or other vendo
 Are you responsible for managing citizen services and cases within your municipality and would you like to help further shape the future development of OpenZaak?
 Then you can contribute in the following ways:
 
+<!--
 * Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
+-->
+
 * Learn [how to contribute](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md)
-* Subscribe to the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
+
 * Check outstanding [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
 * Create a new [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) using the [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-* Announce your feature request on the [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
 * Develop the feature request (see "For developers")
 
 
