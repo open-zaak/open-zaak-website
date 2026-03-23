@@ -46,11 +46,7 @@ const IndexPage = ({ location }) => (
           </Box>
         </Flex>
       </Section>
-/*
-      <Section textAlign="center">
-        <iframe title="Demo usage OpenZaak" src="https://player.vimeo.com/video/389842983" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-      </Section>
-*/
+
       <Section>
         <Flex>
           <Box width={2/5}>
@@ -112,26 +108,7 @@ const IndexPage = ({ location }) => (
       </Section>
 
     </Container>
-/*
-    <Background backgroundColor="#f5f5f6">
-      <Container>
-        <Section>
-          <Heading align="center" fontSize="2rem">Roadmap</Heading>
-        </Section>
-      </Container>
-    </Background>
-    <Container>
-      <Timeline>
-        <Timeline.Container align="left">
-          <Timeline.Content>
-            <Span fontSize="0.9rem">Q4 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Ready for production</Heading>
-            <p>Delivery of a municipal neutral version of the OpenZaak software. OpenZaak is ready for production for the municipal participants from the Kopgroep.</p>
-          </Timeline.Content>
-        </Timeline.Container>
-      </Timeline>
-    </Container>
-*/
+
     <Footer location={location} />
   </Layout>
 )
