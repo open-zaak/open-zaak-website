@@ -15,4 +15,4 @@ jobs:
           deploy-branch: master
 #          gatsby-args: --prefix-paths
           # access-token: ${{ secrets.ACCESS_TOKEN }}
-          access-token: ${{ secrets.GITHUB_TOKEN }}
+          access-token: ${{ secrets.DEPLOY_SECRET_NO_EXPIRE }}
